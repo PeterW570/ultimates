@@ -1,0 +1,66 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin: 10px 0;
+  font-family: 'Exo 2', sans-serif;
+}
+h1 {
+  font-size: 4rem;
+  font-weight: 700;
+}
+h2 {
+  font-size: 2.5rem;
+}
+h3 {
+  font-size: 2rem;
+}
+h4 {
+  font-size: 1.5rem;
+}
+.subtitle {
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: grey;
+}
+.container {
+  max-width: 70rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+a {
+  color: black;
+}
+.twitter >a {
+  text-decoration: none;
+}
+.twitter >a:visited {
+  color: black;
+}
+.section-margin-top {
+  margin-top: 2rem;
+}
+.section-margin-top-small {
+  margin-top: 1rem;
+}
+p {
+  line-height: 1.5rem;
+}
+.show-list-style {
+  list-style: disc inside;
+}
+.show-list-style.nested-list {
+  list-style: circle inside;
+}
+.nested-list {
+  padding-left: 1rem;
+}
+ul, li {
+  padding: 0.2rem 0;
+}
+.bold {
+  font-weight: bold;
+}
