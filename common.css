@@ -64,3 +64,15 @@ ul, li {
 .bold {
   font-weight: bold;
 }
+header {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  padding: 1rem;
+  border-bottom: 1px solid black;
+}
+header >.brand {
+  font-family: 'Exo 2', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  text-decoration: none;
+}
