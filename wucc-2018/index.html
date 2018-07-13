@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>WUCC 2018</title>
+  <title>UltiMates WUCC 2018</title>
   <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,700|Open+Sans" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
@@ -14,6 +14,17 @@
       display: grid;
       width: 100%;
       grid-template-columns: 1fr;
+    }
+    .bracket-link-list {
+      display: grid;
+      grid-template-columns: 1fr;
+      text-align: center;
+    }
+    .bracket-link-list >li {
+      background-color: rgba(0,0,0,0.03);
+      margin: 0.5rem;
+      padding: 1.2rem;
+      font-size: 1rem;
     }
 
     @media (min-width: 500px) {
@@ -26,9 +37,14 @@
       .multi-column-list {
         grid-template-columns: repeat(3, 1fr);
       }
-    }
-    ol {
-      list-style: decimal inside;
+      .bracket-link-list {
+        grid-template-columns: repeat(3, 1fr);
+      }
+      .bracket-link-list >li {
+        margin: 1rem;
+        padding: 1.5rem;
+        font-size: 1.5rem;
+      }
     }
   </style>
 </head>
@@ -43,84 +59,25 @@
     <h2 class="section-margin-top">World Ultimate Club Championships</h2>
     <span class="subtitle">14th - 21st July 2018. Cincinnati, Ohio, USA</span>
 
-    <p class="section-margin-top">WUCC 2018 is nearly here, 128 elite teams from over 40 countries will descend on Cincinatti to battle
-       it out to become World Champions. The UltiMates will be running a prediction contest, so you can get involved in the competitivness
-      of the tournament even if you aren't there, and will have more on the line when watching the livestreams! Keep an eye out on our twitter
-       feed for updates and punditry.</p>
+    <p class="section-margin-top">WUCC 2018 is nearly here, 128 elite teams from over 40 countries will descend on Cincinatti to battle it out to become World Champions.
+       The UltiMates will be running a prediction contest, so you can get involved in the competitiveness of the tournament even if you aren't there, and will have more
+        on the line when watching the livestreams! Keep an eye out on our <a href="https://twitter.com/matesulti" target="_blank">twitter feed</a> for updates and punditry.</p>
 
-    <h3 class="section-margin-top">UltiMates Fantasy Competition</h3>
-    <p class="section-margin-top-small">You can find our fantasy spreadsheet <a href="https://docs.google.com/spreadsheets/d/1kFIWX9bzHZ47CmjfdkHOgyTje87N0NiCJatWsSAEWhM/edit?usp=sharing">here</a>.
-     It's split up into 4 different rounds;</p>
-    <p class="section-margin-top-small"><span class="bold">Rounds 1</span> is a simple top 16 prediction, for each division. For each team, you will be awarded points based on how close
+    <h3 class="section-margin-top"><a href="./fantasy">UltiMates Fantasy Competition</a></h3>
+    <p class="section-margin-top-small"><span class="bold">Round 1</span> is a simple top 16 prediction, for each division. For each team, you will be awarded points based on how close
      you were to their final position, a maximum of 10 points is awarded for a correct prediction of a teams finishing position with 1 point removed for every position
      further away (e.g. If you predicted Team A to finish 8th but they instead finished 4th you would recieve 6 points, 10-4).</p>
     <p class="section-margin-top-small">In <span class="bold">Rounds 2 onwards</span>, for each game the UltiMates have created  a points spread, ie if we have Team A v Team B and we expect Team A will win
      by 2 or 3 (this is averaged over all our predictions) we will write Team A (-2.5) (This means that after the match we will take 2.5 AWAY from Team As score and then
      determine a winner) or Team B (+2.5) (this would mean ADDing 2.5 to Team Bs score). You then have to select whether you think Team A or Team B will win after these
      handicaps. If you guess correctly you win 10 points.</p>
+    <p class="section-margin-top-small">To see our predictions and punditry follow <a href="./fantasy">this link</a>.</p>
 
-    <h4>UltiMates Round 1 Predictions</h4>
-    <ul class="multi-column-list">
-      <li><span class="bold">Women's</span>
-        <ol>
-          <li>Fury</li>
-          <li>Brute Squad</li>
-          <li>Molly Brown</li>
-          <li>Revolution</li>
-          <li>Riot</li>
-          <li>HUCK</li>
-          <li>Ozone</li>
-          <li>UNO</li>
-          <li>Atletico</li>
-          <li>Traffic</li>
-          <li>6ixers</li>
-          <li>Iris</li>
-          <li>MUD</li>
-          <li>Ellipsis</li>
-          <li>YAKA</li>
-          <li>CUSB Shout</li>
-        </ol>
-      </li>
-      <li><span class="bold">Men's</span>
-        <ol>
-          <li>Revolver</li>
-          <li>Ring of Fire</li>
-          <li>Doublewide</li>
-          <li>Colony</li>
-          <li>GOAT</li>
-          <li>Clapham</li>
-          <li>CUSB</li>
-          <li>Nomadic Tribe</li>
-          <li>General Strike</li>
-          <li>Bad Skid</li>
-          <li>Ragnarok</li>
-          <li>Chevron Action Flash</li>
-          <li>Freespeed</li>
-          <li>Flying Angels Bern</li>
-          <li>TCHAC</li>
-          <li>FWD>></li>
-        </ol>
-      </li>
-      <li><span class="bold">Mixed</span>
-        <ol>
-          <li>Seattle Mixtape</li>
-          <li>AMP</li>
-          <li>BFG</li>
-          <li>GRUT</li>
-          <li>Slow White</li>
-          <li>Anchor</li>
-          <li>Crash</li>
-          <li>Cafe de Luida</li>
-          <li>Friskee</li>
-          <li>Hässliche Erdferkel</li>
-          <li>Wild Card</li>
-          <li>Reading Ultimate</li>
-          <li>Banana Cutters</li>
-          <li>Marvellous DC</li>
-          <li>Freakshow Singapore</li>
-          <li>Pie Wagon</li>
-        </ol>
-      </li>
+    <h3 class="section-margin-top">Interactive Brackets</h3>
+    <ul class="bracket-link-list">
+      <li><a href="./womens-bracket.html">Women's</a></li>
+      <li><a href="./mens-bracket.html">Men's</a></li>
+      <li><a href="./mixed-bracket.html">Mixed</a></li>
     </ul>
 
     <h3 class="section-margin-top">Handy Links</h3>

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>WUCC 2018 Men's Division</title>
+  <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,700|Open+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="../common.css">
+  <style>
+    .container {
+      display: grid;
+      grid-template-areas: "tournament twitter" "title title" "pool-title pool-title" "pools pools" "p-pool-title p-pool-title" "p-pools p-pools" "bracket-title bracket-title" "bracket bracket";
+    }
+    .container .tournament {
+      grid-area: tournament;
+    }
+    .container .twitter {
+      grid-area: twitter;
+      text-align: right;
+    }
+    .container .title {
+      grid-area: title;
+      font-size: 3rem;
+    }
+    .container .pool-title {
+      grid-area: pool-title;
+      margin-top: 2rem;
+    }
+    .container .pools-section {
+      grid-area: pools;
+    }
+    .container .p-pool-title {
+      grid-area: p-pool-title;
+      margin-top: 2rem;
+    }
+    .container .p-pools-section {
+      grid-area: p-pools;
+    }
+    .container .bracket-title {
+      grid-area: bracket-title;
+      margin-top: 2rem;
+    }
+    .container .bracket-container {
+      grid-area: bracket;
+      overflow-x: auto;
+    }
+    .container .pools-container {
+      margin-top: 0.5rem;
+      display: grid;
+      grid-gap: 20px;
+      grid-template-columns: 1fr;
+    }
+    @media (min-width: 550px) {
+      .container .pools-container {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 40px;
+      }
+    }
+    @media (min-width: 850px) {
+      .container .pools-container {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+    @media (min-width: 1064px) {
+      .container .pools-container {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+    .pool-results-container .row {
+      padding: 0.4rem;
+    }
+    .pool-results-container .header-row {
+      font-weight: bold;
+    }
+    .pool-results-container .body-row {
+      background-color: #ededed;
+    }
+    .pool-results-container .body-row:nth-child(2n) {
+      background-color: #dadada;
+    }
+    .bracket-container {
+      display: grid;
+      grid-auto-columns: 12rem;
+      grid-auto-flow: column;
+    }
+    .bracket-container .round {
+      display: flex;
+      flex-direction: column;
+    }
+    .bracket-container .round .match {
+      padding: 0.5rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      min-height: 6rem;
+    }
+    .bracket-container .round .match.bye {
+      visibility: hidden;
+      margin-bottom: -25%;
+    }
+    .bracket-container .round .match .team-container {
+      display: flex;
+      flex: 1;
+    }
+    .bracket-container .round .match .team-container .team {
+      width: 100%;
+      padding: 0.1rem;
+      -webkit-user-select: none;
+         -moz-user-select: none;
+          -ms-user-select: none;
+              user-select: none;
+    }
+    .bracket-container .round .match .team-container .team:hover {
+      background-color: #f1c40f;
+    }
+    .bracket-container .round .match .team-container .team.selected {
+      background-color: #f1c40f;
+    }
+    .bracket-container .round .match .team-top {
+      align-items: flex-end;
+    }
+    .bracket-container .round .match .team-bottom {
+      align-items: flex-start;
+    }
+    .bracket-container .round .match .match-info {
+      flex: 2;
+      border: 1px solid grey;
+      border-left: none;
+      color: grey;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a class="brand" href="../">UltiMates</a>
+    <div class="links">
+      <a class="header-link" href="../">WUCC 2018</a>
+    </div>
+    <span class="twitter"><i class="fab fa-twitter"></i> <a href="https://twitter.com/matesulti" target="_blank">MatesUlti</a></span>
+  </header>
+  <div id="app">
+    <div class="container">
+      <h1 class="tournament">Men's Division</h1>
+      <h2 class="title">WUCC 2018</h2>
+      <h3 class="pool-title section-margin-top">Pools</h3>
+      <div class="pools-section pools-container">
+        <pool-results v-for="pool in poolData" :pool-results="pool.teams" :pool="pool.name" @change-order="updatePowerPoolInitialData"></pool-results>
+      </div>
+      <h3 class="p-pool-title section-margin-top">Power Pools</h3>
+      <div class="p-pools-section pools-container">
+        <pool-results v-for="pool in powerPoolData" :pool-results="pool.teams" :pool="pool.name" @change-order="updateBracketInitialData"></pool-results>
+      </div>
+      <h3 class="bracket-title section-margin-top">Bracket</h3>
+      <bracket :teams="teamsAfterPowerPools" :initial-rounds="rounds"></bracket>
+    </div>
+  </div>
+
+  <script type="text/x-template" id="pool-results-template">
+    <div class="pool-results-container">
+      <div class="header-row row">
+        <span class="name-col">Pool {{ pool }}</span>
+      </div>
+      <draggable @change="$emit('change-order')" :list="poolResults" class="dragArea">
+        <div class="row body-row" v-for="team in poolResults">
+          <span class="name-col">{{ team }} ({{ seedForTeam(team) }})</span>
+        </div>
+      </draggable>
+    </div>
+  </script>
+
+  <script type="text/x-template" id="bracket-template">
+    <div class="bracket-container">
+      <div class="round" v-for="(round, roundIdx) in roundsWithTeams">
+        <div class="match" v-for="(match, matchIdx) in round" :class="{ bye: match.bye }">
+          <div class="team-container team-top">
+            <span class="team" :class="{ selected: match.selected === 0 }" @click="onSelectWinner(0, matchIdx, roundIdx)">{{ match.teams[0] }}</span>
+          </div>
+          <div class="match-info">{{ match.info }}</div>
+          <div class="team-container team-bottom">
+            <span class="team" :class="{ selected: match.selected === 1 }" @click="onSelectWinner(1, matchIdx, roundIdx)">{{ match.teams[1] }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.6.0/Sortable.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Vue.Draggable/2.14.1/vuedraggable.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.5/lodash.min.js"></script>
+  <script type="text/javascript" src="mens-bracket.js"></script>
+</body>
+</html>
