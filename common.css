@@ -1,6 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
+
 h1,
 h2,
 h3,
@@ -9,30 +10,43 @@ h4 {
   font-family: 'Exo 2', sans-serif;
 }
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 700;
 }
 h2 {
-  font-size: 2.5rem;
-}
-h3 {
   font-size: 2rem;
 }
-h4 {
+h3 {
   font-size: 1.5rem;
 }
-.subtitle {
+h4 {
   font-size: 1.2rem;
+}
+.subtitle {
+  font-size: 1rem;
   font-weight: 300;
   color: grey;
 }
+p {
+  line-height: 1.5rem;
+}
+a {
+  color: black;
+}
+ul, li {
+  padding: 0.2rem 0;
+}
+ol {
+  list-style: decimal inside;
+}
+.bold {
+  font-weight: bold;
+}
+
 .container {
   max-width: 70rem;
   margin: 0 auto;
   padding: 1rem;
-}
-a {
-  color: black;
 }
 .twitter >a {
   text-decoration: none;
@@ -46,9 +60,6 @@ a {
 .section-margin-top-small {
   margin-top: 1rem;
 }
-p {
-  line-height: 1.5rem;
-}
 .show-list-style {
   list-style: disc inside;
 }
@@ -58,15 +69,13 @@ p {
 .nested-list {
   padding-left: 1rem;
 }
-ul, li {
-  padding: 0.2rem 0;
-}
-.bold {
-  font-weight: bold;
-}
+
+
+/* header */
 header {
   display: grid;
   grid-template-columns: auto 1fr auto;
+  align-items: center;
   padding: 1rem;
   border-bottom: 1px solid black;
 }
@@ -75,4 +84,43 @@ header >.brand {
   font-size: 3rem;
   font-weight: 700;
   text-decoration: none;
+}
+header >.twitter {
+  display: none;
+}
+header >.links {
+  display: none;
+  justify-content: flex-end;
+}
+header >.links >.header-link {
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+/* when screen is wide enough */
+@media (min-width: 768px) {
+  /* resize headers */
+  h1 {
+    font-size: 4rem;
+  }
+  h2 {
+    font-size: 2.5rem;
+  }
+  h3 {
+    font-size: 2rem;
+  }
+  h4 {
+    font-size: 1.5rem;
+  }
+  .subtitle {
+    font-size: 1.2rem;
+  }
+  header >.brand {
+    font-size: 3rem;
+  }
+
+  /* unhide twitter and header links */
+  header >.twitter, header >.links {
+    display: flex;
+  }
 }
