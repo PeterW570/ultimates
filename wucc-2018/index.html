@@ -95,13 +95,13 @@
     <div v-show="!loading && liveGames.length === 0">
       No Games
     </div>
-    <match-list :match-list="liveGames"></match-list>
+    <match-list relative-timing="true" :match-list="liveGames"></match-list>
 
     <h4 class="section-margin-top-small">Coming Up Next</h4>
     <div v-show="loading">
       Loading...
     </div>
-    <match-list :match-list="upcomingGames"></match-list>
+    <match-list relative-timing="true" :match-list="upcomingGames"></match-list>
 
     <h3 class="section-margin-top">Handy Links</h3>
     <ul class="multi-column-list">
@@ -133,8 +133,9 @@
 
   <script type="text/x-template" id="match-list-template">
     <ul>
-      <li class="match-list-item" v-for="match in matchList">
-        <span class="time">{{ match["Time"] | localTime }}</span>
+      <li class="match-list-item" :class="{ 'relative-timing': relativeTiming }" v-for="match in matchList">
+        <span v-if="relativeTiming == 'true'" class="time">{{ match["Time"] | timeFromNow | capitalize }}</span>
+        <span v-else class="time">{{ match["Time"] | localTime }}</span>
         <span class="team-1"><span :class="[flagClass(match, 1)]"></span> {{ match["Team 1"] }}</span>
         <span class="vs">v</span>
         <span class="team-2"><span :class="[flagClass(match, 2)]"></span> {{ match["Team 2"] }}</span>
@@ -152,7 +153,7 @@
 
     Vue.component('match-list', {
     template: '#match-list-template',
-    props: ['matchList'],
+    props: ['matchList', 'relativeTiming'],
     methods: {
       flagClass(match, team) {
         return 'flag-icon flag-icon-' + match['Team ' + team + ' CC'];
