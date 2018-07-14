@@ -151,7 +151,7 @@
       liveGames() {
         let liveGames = this.rawScheduleData.filter(d => {
           var diff = moment().diff(moment(d['Time']), 'minutes');
-          return diff >= 0 && diff < 90;
+          return diff >= 0 && diff < 120;
         });
         return liveGames;
       }
