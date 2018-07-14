@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>WUCC 2018 Schedule</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,700|Open+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/css/flag-icon.css"></link>
+  <link rel="stylesheet" type="text/css" href="../common.css">
+  <link rel="stylesheet" type="text/css" href="./schedule-styles.css">
+</head>
+<body>
+  <header>
+    <a class="brand" href="../">UltiMates</a>
+    <div class="links">
+      <a class="header-link" href="../">WUCC 2018</a>
+    </div>
+    <span class="twitter"><i class="fab fa-twitter"></i> <a href="https://twitter.com/matesulti" target="_blank">MatesUlti</a></span>
+  </header>
+  <div id="app" class="container">
+    <h1 class="tournament">Live Schedule</h1>
+    <h2 class="title">WUCC 2018</h2>
+
+    <h2 class="section-margin-top">Current Time Slot</h2>
+    <div v-show="loading">
+      Loading...
+    </div>
+    <div v-show="!loading && liveGames.length === 0">
+      No Games
+    </div>
+    <match-list :match-list="liveGames"></match-list>
+
+    <h2 class="section-margin-top-small">Coming Up Next</h2>
+    <div v-show="loading">
+      Loading...
+    </div>
+    <match-list :match-list="upcomingGames"></match-list>
+
+    <h2 class="section-margin-top">Full Schedule</h2>
+    <div v-show="loading">
+      Loading...
+    </div>
+    <div class="section-margin-top-small" v-for="(dayData, dayKey) in scheduleData">
+      <h3>{{ dayKey | prettyDay }}</h3>
+      <match-list :match-list="dayData"></match-list>
+    </div>
+
+  </div>
+
+  <script type="text/x-template" id="match-list-template">
+    <ul>
+      <li class="match-list-item" v-for="match in matchList">
+        <span class="time">{{ match["Time"] | localTime }}</span>
+        <span class="team-1"><span :class="[flagClass(match, 1)]"></span> {{ match["Team 1"] }}</span>
+        <span class="vs">v</span>
+        <span class="team-2"><span :class="[flagClass(match, 2)]"></span> {{ match["Team 2"] }}</span>
+        <a class="stream" :href="streamLinkForMatch(match)" target="_blank">{{ match["Stream"] }}</a>
+      </li>
+    </ul>
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+
+  <script>
+    var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1kqbddiAi-NBjZGvYhXROzzFzkB0_MKiRgM_naIgEr5E/edit?usp=sharing';
+
+    Vue.component('match-list', {
+    template: '#match-list-template',
+    props: ['matchList'],
+    methods: {
+      flagClass(match, team) {
+        return 'flag-icon flag-icon-' + match['Team ' + team + ' CC'];
+      },
+      streamLinkForMatch(match) {
+        let stream = match['Stream'];
+        switch(stream) {
+          case 'Ultiworld':
+            return 'https://ultiworld.com/live';
+          case 'Fanseat':
+            return 'https://fanseat.com/';
+          case 'Olympic Channel':
+            return 'https://www.olympicchannel.com/';
+          case 'WFDF':
+            return 'https://www.youtube.com/user/WFDFChannel';
+          default:
+            return '';
+        }
+      }
+    },
+    filters: {
+      localTime(timestamp) {
+        return moment(timestamp).format("h:mma");
+      },
+      timeFromNow(timestamp) {
+        return moment(timestamp).fromNow();
+      },
+      capitalize(str) {
+        return str.charAt(0).toUpperCase() + str.slice(1);
+      }
+    }
+    });
+
+    new Vue({
+    el: '#app',
+    data() {
+      return {
+        title: 'Title',
+        scheduleData: [],
+        rawScheduleData: [],
+        loading: true
+      }
+    },
+    created() {
+      Tabletop.init({
+        key: publicSpreadsheetUrl,
+        callback: this.parseDataForSchedule,
+        simpleSheet: true
+      });
+    },
+    methods: {
+      parseDataForSchedule(data) {
+        var parsed = {};
+        data.forEach(row => {
+          if (parsed[row['Day']])
+            parsed[row['Day']].push(row);
+          else
+            parsed[row['Day']] = [row];
+        });
+        this.rawScheduleData = data;
+        this.scheduleData = parsed;
+        this.loading = false;
+      }
+    },
+    computed: {
+      upcomingGames() {
+        let gamesInFuture = this.rawScheduleData.filter(d => {
+          var diff = moment().diff(moment(d['Time']), 'minutes');
+          return diff < 0;
+        });
+        return gamesInFuture.slice(0, 4);
+      },
+      liveGames() {
+        let liveGames = this.rawScheduleData.filter(d => {
+          var diff = moment().diff(moment(d['Time']), 'minutes');
+          return diff > 0 && diff < 90;
+        });
+        return liveGames;
+      }
+    },
+    filters: {
+      prettyDay(day) {
+        return moment(day).format('dddd Do MMMM');
+      }
+    }
+    });
+  </script>
+
+</body>
+</html>
