@@ -1,0 +1,45 @@
+.profile {
+    margin: 30px 0;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.dashboard {
+    text-align: right;
+}
+
+.place-bets >div {
+    margin: 10px 0;
+}
+
+.bet-details-container {
+    display: flex;
+    overflow-x: auto;
+}
+
+.bet-details-card {
+    margin: 5px;
+    padding: 15px 20px;
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.bet-details-card:hover {
+    background-color: rgba(0,0,0,0.1);
+}
+
+.bet-details-card .team-name {
+    white-space: nowrap;
+}
+
+.bet-details-card .team-odds {
+    font-weight: bold;
+    margin-left: 10px;
+    font-family: 'Exo 2', sans-serif;
+}

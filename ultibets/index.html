@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,700|Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.1.0/css/flag-icon.css"></link>
+    <link rel="stylesheet" type="text/css" href="../common.css">
+    <link rel="stylesheet" type="text/css" href="./ultibets-styles.css">
+    <title>UltiBets</title>
+</head>
+<body>
+    <header>
+        <a class="brand" href="../">UltiMates</a>
+        <div class="links"></div>
+        <span class="twitter"><i class="fab fa-twitter"></i> <a href="https://twitter.com/matesulti" target="_blank">MatesUlti</a></span>
+    </header>
+    <div id="app" class="container">
+        <h1>UltiBets</h1>
+        <main class="bets">
+            <div class="profile">
+                <div class="dashboard">
+                    <h3>Dashboard</h3>
+                    <p>Current Balance: {{ balance }}</p>
+                    <p v-if="pendingBets.length">Pending Bets: {{ pendingBets.map(b => `${b.value} on ${b.team}`).join(', ') }}</p>
+                    <p v-else>Pending Bets: None</p>
+                </div>
+                <div class="place-bets" v-if="selectedBet">
+                    <h3>Place Bet</h3>
+                    <div>{{ selectedBet.team }} to win {{ selectedBet.tournament }} at {{ selectedBet.odds | prettyOdds }}</div>
+                    <label for="place-bet-input">Bet:</label>
+                    <input id="place-bet-input" type="number" min="0" :max="balance" v-model="betToPlace">
+                    <div>Potential Returns: {{ potentialBetGains(betToPlace, selectedBet.odds) }}</div>
+                    <button @click="placeBet">Place Bet</button>
+                </div>
+            </div>
+            <div class="available-bets">
+                <div class="tournament-details" v-for="(tournament, tournamentName) in availableBetsData">
+                    <h3 class="tournament-details-summary">{{ tournamentName }}</h3>
+                    <div class="division-details" v-for="(division, divisionName) in tournament">
+                        <h4 class="division-details-summary">{{ divisionName }}</h4>
+                        <div class="bet-details-container">
+                            <div class="bet-details-card" v-for="team in division" @click="selectBet(team, divisionName, tournamentName)">
+                                <span class="team-name">{{ team.team }}</span>
+                                <span class="team-odds">{{ team.odds | prettyOdds }}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.16/vue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+
+    <script src="./ultibets-script.js"></script>
+</body>
+</html>
