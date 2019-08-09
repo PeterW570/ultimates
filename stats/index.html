@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>UltiMates Stats</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+  <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,700|Open+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
+  <link rel="stylesheet" type="text/css" href="../common.css">
+  <style>
+    @media (min-width: 425px) {
+      .division-list {
+        float: left;
+      }
+
+      .division-list:not(:last-of-type) {
+        margin-right: 100px;
+      }
+    }
+
+    li.team-item {
+      margin-top: 5px;
+    }
+
+    .result-indicators {
+      display: inline-flex;
+      margin-right: 5px;
+    }
+
+    .result-indicator {
+      width: 10px;
+      height: 10px;
+    }
+    .result-indicator + .result-indicator {
+      margin-left: 2px;
+    }
+
+    .result-indicator.win {
+      background-color: lightgreen;
+    }
+    .result-indicator.draw {
+      background-color: lightgrey;
+    }
+    .result-indicator.loss {
+      background-color: lightcoral;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a class="brand" href="../">UltiMates</a>
+    <div class="links"></div>
+    <span class="twitter"><i class="fab fa-twitter"></i> <a href="https://twitter.com/matesulti" target="_blank">MatesUlti</a></span>
+  </header>
+  <main class="container">
+    <h1>Stats</h1>
+  </main>
+  <script src="./data/combined-data.js"></script>
+  <script src="./stats-home.js"></script>
+</body>
+</html>
