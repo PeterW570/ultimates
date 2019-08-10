@@ -13,7 +13,7 @@ Object.keys(statsData).forEach(division => {
         teamItem.className = 'team-item';
 
         const link = document.createElement('a');
-        link.setAttribute('href', `team.html?team=${team}&division=${division}`)
+        link.setAttribute('href', `team.html?team=${encodeURIComponent(team)}&division=${division}`)
         link.appendChild(document.createTextNode(team));
 
         const lastFiveGames = games.slice(-5);
