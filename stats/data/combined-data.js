@@ -259,7 +259,7 @@ statsData = {
       ]
     },
     {
-      "team": "BAF",
+      "team": "BAF Open",
       "games": [
         {
           "against": "Fire of London 1",
@@ -326,12 +326,7 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-02T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "BAF Open",
-      "games": [
+        },
         {
           "against": "Red Open 2",
           "scoreFor": 15,
@@ -802,8 +797,74 @@ statsData = {
       ]
     },
     {
-      "team": "Birmingham Ultimate",
+      "team": "Birmingham Ultimate 1",
       "games": [
+        {
+          "against": "BLU.",
+          "scoreFor": 15,
+          "scoreAgainst": 11,
+          "netScore": 4,
+          "tournament": "Nottingham Windfarm 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-06-01T09:00:00.000Z"
+        },
+        {
+          "against": "Bristol Open 1",
+          "scoreFor": 12,
+          "scoreAgainst": 11,
+          "netScore": 1,
+          "tournament": "Nottingham Windfarm 2019",
+          "pitch": "Pitch 13",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-06-01T12:00:00.000Z"
+        },
+        {
+          "against": "SMOG Open 1",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "Nottingham Windfarm 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-06-01T15:00:00.000Z"
+        },
+        {
+          "against": "Reading Open 1",
+          "scoreFor": 14,
+          "scoreAgainst": 5,
+          "netScore": 9,
+          "tournament": "Nottingham Windfarm 2019",
+          "pitch": "Pitch 14",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-06-02T10:30:00.000Z"
+        },
+        {
+          "against": "Fire of London 1",
+          "scoreFor": 10,
+          "scoreAgainst": 8,
+          "netScore": 2,
+          "tournament": "Nottingham Windfarm 2019",
+          "pitch": "Pitch 13",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-06-02T12:00:00.000Z"
+        },
+        {
+          "against": "GB Master Men",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "Nottingham Windfarm 2019",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-06-02T15:00:00.000Z"
+        },
         {
           "against": "Plymouth Ultimate",
           "scoreFor": 15,
@@ -1012,77 +1073,6 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-08-04T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Birmingham Ultimate 1",
-      "games": [
-        {
-          "against": "BLU.",
-          "scoreFor": 15,
-          "scoreAgainst": 11,
-          "netScore": 4,
-          "tournament": "Nottingham Windfarm 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-06-01T09:00:00.000Z"
-        },
-        {
-          "against": "Bristol Open 1",
-          "scoreFor": 12,
-          "scoreAgainst": 11,
-          "netScore": 1,
-          "tournament": "Nottingham Windfarm 2019",
-          "pitch": "Pitch 13",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-06-01T12:00:00.000Z"
-        },
-        {
-          "against": "SMOG Open 1",
-          "scoreFor": 10,
-          "scoreAgainst": 15,
-          "netScore": -5,
-          "tournament": "Nottingham Windfarm 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-01T15:00:00.000Z"
-        },
-        {
-          "against": "Reading Open 1",
-          "scoreFor": 14,
-          "scoreAgainst": 5,
-          "netScore": 9,
-          "tournament": "Nottingham Windfarm 2019",
-          "pitch": "Pitch 14",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-06-02T10:30:00.000Z"
-        },
-        {
-          "against": "Fire of London 1",
-          "scoreFor": 10,
-          "scoreAgainst": 8,
-          "netScore": 2,
-          "tournament": "Nottingham Windfarm 2019",
-          "pitch": "Pitch 13",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-06-02T12:00:00.000Z"
-        },
-        {
-          "against": "GB Master Men",
-          "scoreFor": 8,
-          "scoreAgainst": 15,
-          "netScore": -7,
-          "tournament": "Nottingham Windfarm 2019",
-          "pitch": "Pitch 7",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-06-02T15:00:00.000Z"
         }
       ]
     },
@@ -2754,7 +2744,7 @@ statsData = {
       ]
     },
     {
-      "team": "Clapham",
+      "team": "Clapham Ultimate",
       "games": [
         {
           "against": "Brighton Open",
@@ -2810,6 +2800,61 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-02T15:00:00.000Z"
+        },
+        {
+          "against": "Alba",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-07-13T09:00:00.000Z"
+        },
+        {
+          "against": "Ka-Pow!",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Fire of London 1",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-07-13T13:30:00.000Z"
+        },
+        {
+          "against": "Ranelagh 1",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 10",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "Chevron Action Flash",
+          "scoreFor": 15,
+          "scoreAgainst": 9,
+          "netScore": 6,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "14:40",
+          "timestamp": "2019-07-14T14:40:00.000Z"
         },
         {
           "against": "Camden Ultimate",
@@ -2880,67 +2925,7 @@ statsData = {
       ]
     },
     {
-      "team": "Clapham Ultimate",
-      "games": [
-        {
-          "against": "Alba",
-          "scoreFor": 15,
-          "scoreAgainst": 7,
-          "netScore": 8,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 7",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-07-13T09:00:00.000Z"
-        },
-        {
-          "against": "Ka-Pow!",
-          "scoreFor": 15,
-          "scoreAgainst": 8,
-          "netScore": 7,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 7",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-07-13T10:30:00.000Z"
-        },
-        {
-          "against": "Fire of London 1",
-          "scoreFor": 15,
-          "scoreAgainst": 5,
-          "netScore": 10,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-07-13T13:30:00.000Z"
-        },
-        {
-          "against": "Ranelagh 1",
-          "scoreFor": 15,
-          "scoreAgainst": 8,
-          "netScore": 7,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 10",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-07-14T12:00:00.000Z"
-        },
-        {
-          "against": "Chevron Action Flash",
-          "scoreFor": 15,
-          "scoreAgainst": 9,
-          "netScore": 6,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 9",
-          "day": "Sunday",
-          "time": "14:40",
-          "timestamp": "2019-07-14T14:40:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Curve 1",
+      "team": "Curve Open",
       "games": [
         {
           "against": "Brixton Open",
@@ -3007,12 +2992,7 @@ statsData = {
           "day": "Sunday",
           "time": "15:30",
           "timestamp": "2019-06-02T15:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Curve Open",
-      "games": [
+        },
         {
           "against": "Camden Ultimate",
           "scoreFor": 11,
@@ -3144,77 +3124,6 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-23T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Devon 1",
-      "games": [
-        {
-          "against": "Reading Open 1",
-          "scoreFor": 15,
-          "scoreAgainst": 5,
-          "netScore": 10,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-08-03T09:00:00.000Z"
-        },
-        {
-          "against": "Brighton Open",
-          "scoreFor": 15,
-          "scoreAgainst": 7,
-          "netScore": 8,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-08-03T10:30:00.000Z"
-        },
-        {
-          "against": "Fire of London 1",
-          "scoreFor": 14,
-          "scoreAgainst": 11,
-          "netScore": 3,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-08-03T15:00:00.000Z"
-        },
-        {
-          "against": "Bristol Open 1",
-          "scoreFor": 15,
-          "scoreAgainst": 10,
-          "netScore": 5,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 6",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-08-04T09:00:00.000Z"
-        },
-        {
-          "against": "BLU.",
-          "scoreFor": 15,
-          "scoreAgainst": 9,
-          "netScore": 6,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "pitch 8",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-08-04T12:00:00.000Z"
-        },
-        {
-          "against": "Clapham",
-          "scoreFor": 0,
-          "scoreAgainst": 15,
-          "netScore": -15,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 7",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-08-04T13:30:00.000Z"
         }
       ]
     },
@@ -3407,6 +3316,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-07-14T15:00:00.000Z"
+        },
+        {
+          "against": "Reading Open 1",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-03T09:00:00.000Z"
+        },
+        {
+          "against": "Brighton Open",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-08-03T10:30:00.000Z"
+        },
+        {
+          "against": "Fire of London 1",
+          "scoreFor": 14,
+          "scoreAgainst": 11,
+          "netScore": 3,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-08-03T15:00:00.000Z"
+        },
+        {
+          "against": "Bristol Open 1",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-08-04T09:00:00.000Z"
+        },
+        {
+          "against": "BLU.",
+          "scoreFor": 15,
+          "scoreAgainst": 9,
+          "netScore": 6,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "pitch 8",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-08-04T12:00:00.000Z"
+        },
+        {
+          "against": "Clapham",
+          "scoreFor": 0,
+          "scoreAgainst": 15,
+          "netScore": -15,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-08-04T13:30:00.000Z"
         }
       ]
     },
@@ -4341,77 +4316,6 @@ statsData = {
       "team": "Flump Open",
       "games": [
         {
-          "against": "GB U20 Men",
-          "scoreFor": 13,
-          "scoreAgainst": 11,
-          "netScore": 2,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-07-13T09:00:00.000Z"
-        },
-        {
-          "against": "Manchester Ultimate",
-          "scoreFor": 11,
-          "scoreAgainst": 12,
-          "netScore": -1,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-07-13T10:30:00.000Z"
-        },
-        {
-          "against": "Birmingham Ultimate",
-          "scoreFor": 13,
-          "scoreAgainst": 12,
-          "netScore": 1,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 7",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-07-13T13:30:00.000Z"
-        },
-        {
-          "against": "EMO 1",
-          "scoreFor": 13,
-          "scoreAgainst": 8,
-          "netScore": 5,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 13",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-07-14T09:00:00.000Z"
-        },
-        {
-          "against": "Ka-Pow!",
-          "scoreFor": 9,
-          "scoreAgainst": 11,
-          "netScore": -2,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-07-14T12:00:00.000Z"
-        },
-        {
-          "against": "Fire of London 1",
-          "scoreFor": 8,
-          "scoreAgainst": 13,
-          "netScore": -5,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 13",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-07-14T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Flump Open 1",
-      "games": [
-        {
           "against": "Brighton Open",
           "scoreFor": 10,
           "scoreAgainst": 11,
@@ -4476,6 +4380,72 @@ statsData = {
           "day": "Sunday",
           "time": "16:30",
           "timestamp": "2019-06-23T16:30:00.000Z"
+        },
+        {
+          "against": "GB U20 Men",
+          "scoreFor": 13,
+          "scoreAgainst": 11,
+          "netScore": 2,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-07-13T09:00:00.000Z"
+        },
+        {
+          "against": "Manchester Ultimate",
+          "scoreFor": 11,
+          "scoreAgainst": 12,
+          "netScore": -1,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 13,
+          "scoreAgainst": 12,
+          "netScore": 1,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-07-13T13:30:00.000Z"
+        },
+        {
+          "against": "EMO 1",
+          "scoreFor": 13,
+          "scoreAgainst": 8,
+          "netScore": 5,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 13",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-07-14T09:00:00.000Z"
+        },
+        {
+          "against": "Ka-Pow!",
+          "scoreFor": 9,
+          "scoreAgainst": 11,
+          "netScore": -2,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "Fire of London 1",
+          "scoreFor": 8,
+          "scoreAgainst": 13,
+          "netScore": -5,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 13",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-07-14T15:00:00.000Z"
         }
       ]
     },
@@ -4753,77 +4723,6 @@ statsData = {
       ]
     },
     {
-      "team": "GB U20 Men",
-      "games": [
-        {
-          "against": "Flump Open",
-          "scoreFor": 11,
-          "scoreAgainst": 13,
-          "netScore": -2,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-07-13T09:00:00.000Z"
-        },
-        {
-          "against": "Birmingham Ultimate",
-          "scoreFor": 7,
-          "scoreAgainst": 13,
-          "netScore": -6,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-07-13T10:30:00.000Z"
-        },
-        {
-          "against": "Manchester Ultimate",
-          "scoreFor": 15,
-          "scoreAgainst": 6,
-          "netScore": 9,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-07-13T13:30:00.000Z"
-        },
-        {
-          "against": "Reading Open 1",
-          "scoreFor": 12,
-          "scoreAgainst": 10,
-          "netScore": 2,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-07-14T10:30:00.000Z"
-        },
-        {
-          "against": "Manchester Ultimate",
-          "scoreFor": 10,
-          "scoreAgainst": 8,
-          "netScore": 2,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-07-14T12:00:00.000Z"
-        },
-        {
-          "against": "LLLeeds Open 1",
-          "scoreFor": 11,
-          "scoreAgainst": 10,
-          "netScore": 1,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-07-14T15:00:00.000Z"
-        }
-      ]
-    },
-    {
       "team": "GB U20 Open",
       "games": [
         {
@@ -4891,6 +4790,72 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-06-23T13:30:00.000Z"
+        },
+        {
+          "against": "Flump Open",
+          "scoreFor": 11,
+          "scoreAgainst": 13,
+          "netScore": -2,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-07-13T09:00:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 7,
+          "scoreAgainst": 13,
+          "netScore": -6,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Manchester Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 6,
+          "netScore": 9,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-07-13T13:30:00.000Z"
+        },
+        {
+          "against": "Reading Open 1",
+          "scoreFor": 12,
+          "scoreAgainst": 10,
+          "netScore": 2,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-07-14T10:30:00.000Z"
+        },
+        {
+          "against": "Manchester Ultimate",
+          "scoreFor": 10,
+          "scoreAgainst": 8,
+          "netScore": 2,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "LLLeeds Open 1",
+          "scoreFor": 11,
+          "scoreAgainst": 10,
+          "netScore": 1,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-07-14T15:00:00.000Z"
         }
       ]
     },
@@ -5152,7 +5117,7 @@ statsData = {
       ]
     },
     {
-      "team": "Horsham Ultimate",
+      "team": "Horsham Ultimate Open",
       "games": [
         {
           "against": "Brighton Open",
@@ -5219,12 +5184,7 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-06-14T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Horsham Ultimate Open",
-      "games": [
+        },
         {
           "against": "Fire of London 1",
           "scoreFor": 5,
@@ -6709,7 +6669,7 @@ statsData = {
       ]
     },
     {
-      "team": "Oxford Open",
+      "team": "Oxford Opens",
       "games": [
         {
           "against": "Plymouth Ultimate",
@@ -6754,12 +6714,7 @@ statsData = {
           "day": "Sunday",
           "time": "15:30",
           "timestamp": "2019-06-02T15:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Oxford Opens",
-      "games": [
+        },
         {
           "against": "Curve Open",
           "scoreFor": 11,
@@ -7169,7 +7124,7 @@ statsData = {
       ]
     },
     {
-      "team": "Purple Cobras",
+      "team": "Purple Cobras Open",
       "games": [
         {
           "against": "ExeTour",
@@ -7214,12 +7169,7 @@ statsData = {
           "day": "Sunday",
           "time": "15:30",
           "timestamp": "2019-06-02T15:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Purple Cobras Open",
-      "games": [
+        },
         {
           "against": "Sharkbear!",
           "scoreFor": 12,
@@ -8068,77 +8018,6 @@ statsData = {
       ]
     },
     {
-      "team": "Rebel Ultimate",
-      "games": [
-        {
-          "against": "Reading Open 1",
-          "scoreFor": 15,
-          "scoreAgainst": 8,
-          "netScore": 7,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-07-13T10:30:00.000Z"
-        },
-        {
-          "against": "LLLeeds Open 1",
-          "scoreFor": 15,
-          "scoreAgainst": 12,
-          "netScore": 3,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 6",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-07-13T13:30:00.000Z"
-        },
-        {
-          "against": "Bristol Open 1",
-          "scoreFor": 9,
-          "scoreAgainst": 13,
-          "netScore": -4,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-07-13T15:00:00.000Z"
-        },
-        {
-          "against": "Ka-Pow!",
-          "scoreFor": 6,
-          "scoreAgainst": 15,
-          "netScore": -9,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 6",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-07-14T09:00:00.000Z"
-        },
-        {
-          "against": "EMO 1",
-          "scoreFor": 12,
-          "scoreAgainst": 13,
-          "netScore": -1,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 8",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-07-14T12:00:00.000Z"
-        },
-        {
-          "against": "Bristol Open 1",
-          "scoreFor": 12,
-          "scoreAgainst": 13,
-          "netScore": -1,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 7",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-07-14T15:00:00.000Z"
-        }
-      ]
-    },
-    {
       "team": "Rebel Ultimate 1",
       "games": [
         {
@@ -8206,6 +8085,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-02T15:00:00.000Z"
+        },
+        {
+          "against": "Reading Open 1",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "LLLeeds Open 1",
+          "scoreFor": 15,
+          "scoreAgainst": 12,
+          "netScore": 3,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-07-13T13:30:00.000Z"
+        },
+        {
+          "against": "Bristol Open 1",
+          "scoreFor": 9,
+          "scoreAgainst": 13,
+          "netScore": -4,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "Ka-Pow!",
+          "scoreFor": 6,
+          "scoreAgainst": 15,
+          "netScore": -9,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-07-14T09:00:00.000Z"
+        },
+        {
+          "against": "EMO 1",
+          "scoreFor": 12,
+          "scoreAgainst": 13,
+          "netScore": -1,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 8",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "Bristol Open 1",
+          "scoreFor": 12,
+          "scoreAgainst": 13,
+          "netScore": -1,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-07-14T15:00:00.000Z"
         }
       ]
     },
@@ -9986,7 +9931,7 @@ statsData = {
       ]
     },
     {
-      "team": "The Brown",
+      "team": "The Brown Open 1",
       "games": [
         {
           "against": "Reading Open 2",
@@ -10053,83 +9998,7 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-02T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "The Brown Open",
-      "games": [
-        {
-          "against": "EMO 1",
-          "scoreFor": 4,
-          "scoreAgainst": 13,
-          "netScore": -9,
-          "tournament": "UKU Regionals (North) 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-08-03T09:00:00.000Z"
         },
-        {
-          "against": "Chevron Action Flash",
-          "scoreFor": 1,
-          "scoreAgainst": 13,
-          "netScore": -12,
-          "tournament": "UKU Regionals (North) 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "10:10",
-          "timestamp": "2019-08-03T10:10:00.000Z"
-        },
-        {
-          "against": "YOpen",
-          "scoreFor": 6,
-          "scoreAgainst": 10,
-          "netScore": -4,
-          "tournament": "UKU Regionals (North) 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "14:50",
-          "timestamp": "2019-08-03T14:50:00.000Z"
-        },
-        {
-          "against": "Manchester Ultimate",
-          "scoreFor": 5,
-          "scoreAgainst": 13,
-          "netScore": -8,
-          "tournament": "UKU Regionals (North) 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "16:00",
-          "timestamp": "2019-08-03T16:00:00.000Z"
-        },
-        {
-          "against": "BAF Open",
-          "scoreFor": 6,
-          "scoreAgainst": 12,
-          "netScore": -6,
-          "tournament": "UKU Regionals (North) 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-08-04T09:00:00.000Z"
-        },
-        {
-          "against": "Red Open 1",
-          "scoreFor": 10,
-          "scoreAgainst": 12,
-          "netScore": -2,
-          "tournament": "UKU Regionals (North) 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-08-04T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "The Brown Open 1",
-      "games": [
         {
           "against": "LLLeeds Open 1",
           "scoreFor": 7,
@@ -10272,6 +10141,72 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-07-14T13:30:00.000Z"
+        },
+        {
+          "against": "EMO 1",
+          "scoreFor": 4,
+          "scoreAgainst": 13,
+          "netScore": -9,
+          "tournament": "UKU Regionals (North) 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-03T09:00:00.000Z"
+        },
+        {
+          "against": "Chevron Action Flash",
+          "scoreFor": 1,
+          "scoreAgainst": 13,
+          "netScore": -12,
+          "tournament": "UKU Regionals (North) 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "10:10",
+          "timestamp": "2019-08-03T10:10:00.000Z"
+        },
+        {
+          "against": "YOpen",
+          "scoreFor": 6,
+          "scoreAgainst": 10,
+          "netScore": -4,
+          "tournament": "UKU Regionals (North) 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "14:50",
+          "timestamp": "2019-08-03T14:50:00.000Z"
+        },
+        {
+          "against": "Manchester Ultimate",
+          "scoreFor": 5,
+          "scoreAgainst": 13,
+          "netScore": -8,
+          "tournament": "UKU Regionals (North) 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "16:00",
+          "timestamp": "2019-08-03T16:00:00.000Z"
+        },
+        {
+          "against": "BAF Open",
+          "scoreFor": 6,
+          "scoreAgainst": 12,
+          "netScore": -6,
+          "tournament": "UKU Regionals (North) 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-08-04T09:00:00.000Z"
+        },
+        {
+          "against": "Red Open 1",
+          "scoreFor": 10,
+          "scoreAgainst": 12,
+          "netScore": -2,
+          "tournament": "UKU Regionals (North) 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-08-04T13:30:00.000Z"
         }
       ]
     },
@@ -11013,6 +10948,83 @@ statsData = {
           "timestamp": "2019-06-02T15:30:00.000Z"
         },
         {
+          "against": "SMOG Open 1",
+          "scoreFor": 3,
+          "scoreAgainst": 14,
+          "netScore": -11,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-06-22T09:00:00.000Z"
+        },
+        {
+          "against": "LED Open",
+          "scoreFor": 13,
+          "scoreAgainst": 5,
+          "netScore": 8,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "11:20",
+          "timestamp": "2019-06-22T11:20:00.000Z"
+        },
+        {
+          "against": "LLLeeds Open 1",
+          "scoreFor": 5,
+          "scoreAgainst": 13,
+          "netScore": -8,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "13:40",
+          "timestamp": "2019-06-22T13:40:00.000Z"
+        },
+        {
+          "against": "The Brown Open 1",
+          "scoreFor": 6,
+          "scoreAgainst": 9,
+          "netScore": -3,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "14:50",
+          "timestamp": "2019-06-22T14:50:00.000Z"
+        },
+        {
+          "against": "Vision",
+          "scoreFor": 11,
+          "scoreAgainst": 14,
+          "netScore": -3,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-06-23T09:00:00.000Z"
+        },
+        {
+          "against": "Uproar",
+          "scoreFor": 12,
+          "scoreAgainst": 11,
+          "netScore": 1,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-06-23T10:30:00.000Z"
+        },
+        {
+          "against": "The Brown Open 2",
+          "scoreFor": 12,
+          "scoreAgainst": 7,
+          "netScore": 5,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-06-23T13:30:00.000Z"
+        },
+        {
           "against": "Thundering Him",
           "scoreFor": 14,
           "scoreAgainst": 12,
@@ -11225,88 +11237,6 @@ statsData = {
           "day": "Sunday",
           "time": "15:30",
           "timestamp": "2019-06-02T15:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Yopen",
-      "games": [
-        {
-          "against": "SMOG Open 1",
-          "scoreFor": 3,
-          "scoreAgainst": 14,
-          "netScore": -11,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-06-22T09:00:00.000Z"
-        },
-        {
-          "against": "LED Open",
-          "scoreFor": 13,
-          "scoreAgainst": 5,
-          "netScore": 8,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "11:20",
-          "timestamp": "2019-06-22T11:20:00.000Z"
-        },
-        {
-          "against": "LLLeeds Open 1",
-          "scoreFor": 5,
-          "scoreAgainst": 13,
-          "netScore": -8,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "13:40",
-          "timestamp": "2019-06-22T13:40:00.000Z"
-        },
-        {
-          "against": "The Brown Open 1",
-          "scoreFor": 6,
-          "scoreAgainst": 9,
-          "netScore": -3,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "14:50",
-          "timestamp": "2019-06-22T14:50:00.000Z"
-        },
-        {
-          "against": "Vision",
-          "scoreFor": 11,
-          "scoreAgainst": 14,
-          "netScore": -3,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-06-23T09:00:00.000Z"
-        },
-        {
-          "against": "Uproar",
-          "scoreFor": 12,
-          "scoreAgainst": 11,
-          "netScore": 1,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-06-23T10:30:00.000Z"
-        },
-        {
-          "against": "The Brown Open 2",
-          "scoreFor": 12,
-          "scoreAgainst": 7,
-          "netScore": 5,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-06-23T13:30:00.000Z"
         }
       ]
     }
@@ -11861,77 +11791,6 @@ statsData = {
       ]
     },
     {
-      "team": "Brixton x Chaos",
-      "games": [
-        {
-          "against": "Red Women 2",
-          "scoreFor": 15,
-          "scoreAgainst": 5,
-          "netScore": 10,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-07-13T12:00:00.000Z"
-        },
-        {
-          "against": "Discie Chicks",
-          "scoreFor": 15,
-          "scoreAgainst": 1,
-          "netScore": 14,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-07-13T15:00:00.000Z"
-        },
-        {
-          "against": "GB U20 Women",
-          "scoreFor": 6,
-          "scoreAgainst": 14,
-          "netScore": -8,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "16:30",
-          "timestamp": "2019-07-13T16:30:00.000Z"
-        },
-        {
-          "against": "Red Women 1",
-          "scoreFor": 5,
-          "scoreAgainst": 12,
-          "netScore": -7,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-07-14T09:00:00.000Z"
-        },
-        {
-          "against": "Reading Aces",
-          "scoreFor": 12,
-          "scoreAgainst": 5,
-          "netScore": 7,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 5",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-07-14T10:30:00.000Z"
-        },
-        {
-          "against": "Cambridge Women's",
-          "scoreFor": 15,
-          "scoreAgainst": 7,
-          "netScore": 8,
-          "tournament": "Moor Lane 2019",
-          "pitch": "Pitch 6",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-07-14T13:30:00.000Z"
-        }
-      ]
-    },
-    {
       "team": "Cambridge Women",
       "games": [
         {
@@ -11999,12 +11858,7 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-06-02T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Cambridge Women's",
-      "games": [
+        },
         {
           "against": "Scram 1",
           "scoreFor": 1,
@@ -12140,77 +11994,6 @@ statsData = {
       ]
     },
     {
-      "team": "Chaos & Brixton",
-      "games": [
-        {
-          "against": "Reading Women 1",
-          "scoreFor": 5,
-          "scoreAgainst": 11,
-          "netScore": -6,
-          "tournament": "Rhymney Cup 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-06-22T10:30:00.000Z"
-        },
-        {
-          "against": "Uprising",
-          "scoreFor": 7,
-          "scoreAgainst": 8,
-          "netScore": -1,
-          "tournament": "Rhymney Cup 2019",
-          "pitch": "Pitch 7",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-06-22T13:30:00.000Z"
-        },
-        {
-          "against": "Red Women 2",
-          "scoreFor": 14,
-          "scoreAgainst": 5,
-          "netScore": 9,
-          "tournament": "Rhymney Cup 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "16:30",
-          "timestamp": "2019-06-22T16:30:00.000Z"
-        },
-        {
-          "against": "GB U20 Women",
-          "scoreFor": 6,
-          "scoreAgainst": 10,
-          "netScore": -4,
-          "tournament": "Rhymney Cup 2019",
-          "pitch": "Pitch 6",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-06-23T09:00:00.000Z"
-        },
-        {
-          "against": "Reading Women 2",
-          "scoreFor": 9,
-          "scoreAgainst": 7,
-          "netScore": 2,
-          "tournament": "Rhymney Cup 2019",
-          "pitch": "Pitch 8",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-06-23T12:00:00.000Z"
-        },
-        {
-          "against": "Thundering Her",
-          "scoreFor": 6,
-          "scoreAgainst": 10,
-          "netScore": -4,
-          "tournament": "Rhymney Cup 2019",
-          "pitch": "Pitch 9",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-06-23T15:00:00.000Z"
-        }
-      ]
-    },
-    {
       "team": "Chaos x Brixton",
       "games": [
         {
@@ -12278,6 +12061,138 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-06-02T13:30:00.000Z"
+        },
+        {
+          "against": "Reading Women 1",
+          "scoreFor": 5,
+          "scoreAgainst": 11,
+          "netScore": -6,
+          "tournament": "Rhymney Cup 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-06-22T10:30:00.000Z"
+        },
+        {
+          "against": "Uprising",
+          "scoreFor": 7,
+          "scoreAgainst": 8,
+          "netScore": -1,
+          "tournament": "Rhymney Cup 2019",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-06-22T13:30:00.000Z"
+        },
+        {
+          "against": "Red Women 2",
+          "scoreFor": 14,
+          "scoreAgainst": 5,
+          "netScore": 9,
+          "tournament": "Rhymney Cup 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-06-22T16:30:00.000Z"
+        },
+        {
+          "against": "GB U20 Women",
+          "scoreFor": 6,
+          "scoreAgainst": 10,
+          "netScore": -4,
+          "tournament": "Rhymney Cup 2019",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-06-23T09:00:00.000Z"
+        },
+        {
+          "against": "Reading Women 2",
+          "scoreFor": 9,
+          "scoreAgainst": 7,
+          "netScore": 2,
+          "tournament": "Rhymney Cup 2019",
+          "pitch": "Pitch 8",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-06-23T12:00:00.000Z"
+        },
+        {
+          "against": "Thundering Her",
+          "scoreFor": 6,
+          "scoreAgainst": 10,
+          "netScore": -4,
+          "tournament": "Rhymney Cup 2019",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-06-23T15:00:00.000Z"
+        },
+        {
+          "against": "Red Women 2",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-07-13T12:00:00.000Z"
+        },
+        {
+          "against": "Discie Chicks",
+          "scoreFor": 15,
+          "scoreAgainst": 1,
+          "netScore": 14,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "GB U20 Women",
+          "scoreFor": 6,
+          "scoreAgainst": 14,
+          "netScore": -8,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-07-13T16:30:00.000Z"
+        },
+        {
+          "against": "Red Women 1",
+          "scoreFor": 5,
+          "scoreAgainst": 12,
+          "netScore": -7,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-07-14T09:00:00.000Z"
+        },
+        {
+          "against": "Reading Aces",
+          "scoreFor": 12,
+          "scoreAgainst": 5,
+          "netScore": 7,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 5",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-07-14T10:30:00.000Z"
+        },
+        {
+          "against": "Cambridge Women's",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "Moor Lane 2019",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-07-14T13:30:00.000Z"
         },
         {
           "against": "SYC",
@@ -16364,7 +16279,7 @@ statsData = {
       ]
     },
     {
-      "team": "Black Sheep",
+      "team": "Black Sheep 1",
       "games": [
         {
           "against": "SMOG 1",
@@ -16424,8 +16339,74 @@ statsData = {
       ]
     },
     {
-      "team": "Black Sheep 1",
+      "team": "Black Sheep Mixed 1",
       "games": [
+        {
+          "against": "St Albans Mixed",
+          "scoreFor": 14,
+          "scoreAgainst": 8,
+          "netScore": 6,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-03-30T10:30:00.000Z"
+        },
+        {
+          "against": "Purple Cobras",
+          "scoreFor": 5,
+          "scoreAgainst": 11,
+          "netScore": -6,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-03-30T12:00:00.000Z"
+        },
+        {
+          "against": "Shakedown",
+          "scoreFor": 8,
+          "scoreAgainst": 12,
+          "netScore": -4,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-03-30T15:00:00.000Z"
+        },
+        {
+          "against": "South Wales Storm",
+          "scoreFor": 7,
+          "scoreAgainst": 10,
+          "netScore": -3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-03-31T09:00:00.000Z"
+        },
+        {
+          "against": "LED Mixed",
+          "scoreFor": 6,
+          "scoreAgainst": 10,
+          "netScore": -4,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 14",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-03-31T12:00:00.000Z"
+        },
+        {
+          "against": "St Albans Mixed",
+          "scoreFor": 11,
+          "scoreAgainst": 13,
+          "netScore": -2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-03-31T15:00:00.000Z"
+        },
         {
           "against": "Mighty Hucks",
           "scoreFor": 2,
@@ -16561,137 +16542,6 @@ statsData = {
       ]
     },
     {
-      "team": "Black Sheep 2",
-      "games": [
-        {
-          "against": "Geometrically Frustrated Magnets",
-          "scoreFor": 4,
-          "scoreAgainst": 15,
-          "netScore": -11,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-04-27T10:30:00.000Z"
-        },
-        {
-          "against": "Manchester 1",
-          "scoreFor": 15,
-          "scoreAgainst": 5,
-          "netScore": 10,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-04-27T13:30:00.000Z"
-        },
-        {
-          "against": "Ouseburn Social Club",
-          "scoreFor": 11,
-          "scoreAgainst": 6,
-          "netScore": 5,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 6",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-04-27T15:00:00.000Z"
-        },
-        {
-          "against": "MUC Mixed",
-          "scoreFor": 9,
-          "scoreAgainst": 15,
-          "netScore": -6,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-04-28T10:30:00.000Z"
-        },
-        {
-          "against": "Nemesis",
-          "scoreFor": 9,
-          "scoreAgainst": 15,
-          "netScore": -6,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-04-28T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Black Sheep Mixed 1",
-      "games": [
-        {
-          "against": "St Albans Mixed",
-          "scoreFor": 14,
-          "scoreAgainst": 8,
-          "netScore": 6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-03-30T10:30:00.000Z"
-        },
-        {
-          "against": "Purple Cobras",
-          "scoreFor": 5,
-          "scoreAgainst": 11,
-          "netScore": -6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-03-30T12:00:00.000Z"
-        },
-        {
-          "against": "Shakedown",
-          "scoreFor": 8,
-          "scoreAgainst": 12,
-          "netScore": -4,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-03-30T15:00:00.000Z"
-        },
-        {
-          "against": "South Wales Storm",
-          "scoreFor": 7,
-          "scoreAgainst": 10,
-          "netScore": -3,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 6",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-03-31T09:00:00.000Z"
-        },
-        {
-          "against": "LED Mixed",
-          "scoreFor": 6,
-          "scoreAgainst": 10,
-          "netScore": -4,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 14",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-03-31T12:00:00.000Z"
-        },
-        {
-          "against": "St Albans Mixed",
-          "scoreFor": 11,
-          "scoreAgainst": 13,
-          "netScore": -2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-03-31T15:00:00.000Z"
-        }
-      ]
-    },
-    {
       "team": "Black Sheep Mixed 2",
       "games": [
         {
@@ -16759,6 +16609,61 @@ statsData = {
           "day": "Sunday",
           "time": "16:30",
           "timestamp": "2019-03-31T16:30:00.000Z"
+        },
+        {
+          "against": "Geometrically Frustrated Magnets",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-04-27T10:30:00.000Z"
+        },
+        {
+          "against": "Manchester 1",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-04-27T13:30:00.000Z"
+        },
+        {
+          "against": "Ouseburn Social Club",
+          "scoreFor": 11,
+          "scoreAgainst": 6,
+          "netScore": 5,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-04-27T15:00:00.000Z"
+        },
+        {
+          "against": "MUC Mixed",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-04-28T10:30:00.000Z"
+        },
+        {
+          "against": "Nemesis",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-04-28T13:30:00.000Z"
         }
       ]
     },
@@ -17037,8 +16942,74 @@ statsData = {
       ]
     },
     {
-      "team": "Brixton",
+      "team": "Brixton Mixed",
       "games": [
+        {
+          "against": "Dreadnought Mixed",
+          "scoreFor": 15,
+          "scoreAgainst": 11,
+          "netScore": 4,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-03-30T09:00:00.000Z"
+        },
+        {
+          "against": "Reading Mixed 2",
+          "scoreFor": 13,
+          "scoreAgainst": 6,
+          "netScore": 7,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-03-30T10:30:00.000Z"
+        },
+        {
+          "against": "Zoo",
+          "scoreFor": 10,
+          "scoreAgainst": 13,
+          "netScore": -3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-03-30T13:30:00.000Z"
+        },
+        {
+          "against": "Manchester Mixed",
+          "scoreFor": 8,
+          "scoreAgainst": 5,
+          "netScore": 3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 17",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-03-31T09:00:00.000Z"
+        },
+        {
+          "against": "Bristol Mixed",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-03-31T12:00:00.000Z"
+        },
+        {
+          "against": "DK",
+          "scoreFor": 7,
+          "scoreAgainst": 10,
+          "netScore": -3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 13",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-03-31T15:00:00.000Z"
+        },
         {
           "against": "Cosmic Manatees",
           "scoreFor": 4,
@@ -17174,24 +17145,13 @@ statsData = {
       ]
     },
     {
-      "team": "Brixton Mixed",
+      "team": "Cambridge Ultimate 1",
       "games": [
         {
-          "against": "Dreadnought Mixed",
-          "scoreFor": 15,
-          "scoreAgainst": 11,
-          "netScore": 4,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-03-30T09:00:00.000Z"
-        },
-        {
-          "against": "Reading Mixed 2",
-          "scoreFor": 13,
-          "scoreAgainst": 6,
-          "netScore": 7,
+          "against": "Mighty Hucks",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
           "tournament": "Y Ddraig Goch 2019",
           "pitch": "Pitch 1",
           "day": "Saturday",
@@ -17199,54 +17159,60 @@ statsData = {
           "timestamp": "2019-03-30T10:30:00.000Z"
         },
         {
-          "against": "Zoo",
-          "scoreFor": 10,
-          "scoreAgainst": 13,
-          "netScore": -3,
+          "against": "Reading Mixed 1",
+          "scoreFor": 14,
+          "scoreAgainst": 9,
+          "netScore": 5,
           "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 8",
+          "pitch": "Pitch 1",
           "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-03-30T13:30:00.000Z"
+          "time": "12:00",
+          "timestamp": "2019-03-30T12:00:00.000Z"
         },
         {
-          "against": "Manchester Mixed",
-          "scoreFor": 8,
-          "scoreAgainst": 5,
-          "netScore": 3,
+          "against": "Royal Goaltimate Society",
+          "scoreFor": 11,
+          "scoreAgainst": 15,
+          "netScore": -4,
           "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 17",
+          "pitch": "Pitch 12",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-03-30T15:00:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 12",
           "day": "Sunday",
           "time": "09:00",
           "timestamp": "2019-03-31T09:00:00.000Z"
         },
         {
-          "against": "Bristol Mixed",
-          "scoreFor": 15,
-          "scoreAgainst": 4,
-          "netScore": 11,
+          "against": "MIST",
+          "scoreFor": 4,
+          "scoreAgainst": 10,
+          "netScore": -6,
           "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 9",
+          "pitch": "Pitch 11",
           "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-03-31T12:00:00.000Z"
+          "time": "10:30",
+          "timestamp": "2019-03-31T10:30:00.000Z"
         },
         {
-          "against": "DK",
-          "scoreFor": 7,
+          "against": "SMOKE",
+          "scoreFor": 6,
           "scoreAgainst": 10,
-          "netScore": -3,
+          "netScore": -4,
           "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 13",
+          "pitch": "Pitch 6",
           "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-03-31T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Cambridge 1",
-      "games": [
+          "time": "13:30",
+          "timestamp": "2019-03-31T13:30:00.000Z"
+        },
         {
           "against": "Black Eagles",
           "scoreFor": 6,
@@ -17367,137 +17333,6 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-05-19T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Cambridge 2",
-      "games": [
-        {
-          "against": "Reading 2",
-          "scoreFor": 7,
-          "scoreAgainst": 15,
-          "netScore": -8,
-          "tournament": "Maypole Mayhem 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-05-18T10:30:00.000Z"
-        },
-        {
-          "against": "Pic n Mix",
-          "scoreFor": 11,
-          "scoreAgainst": 10,
-          "netScore": 1,
-          "tournament": "Maypole Mayhem 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-05-18T12:00:00.000Z"
-        },
-        {
-          "against": "Norwich",
-          "scoreFor": 6,
-          "scoreAgainst": 18,
-          "netScore": -12,
-          "tournament": "Maypole Mayhem 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-05-18T15:00:00.000Z"
-        },
-        {
-          "against": "The Chilterns Collective",
-          "scoreFor": 10,
-          "scoreAgainst": 12,
-          "netScore": -2,
-          "tournament": "Maypole Mayhem 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-05-19T13:30:00.000Z"
-        },
-        {
-          "against": "GU Mixed 2",
-          "scoreFor": 12,
-          "scoreAgainst": 8,
-          "netScore": 4,
-          "tournament": "Maypole Mayhem 2019",
-          "pitch": "Pitch 7",
-          "day": "Sunday",
-          "time": "16:30",
-          "timestamp": "2019-05-19T16:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Cambridge Ultimate 1",
-      "games": [
-        {
-          "against": "Mighty Hucks",
-          "scoreFor": 8,
-          "scoreAgainst": 15,
-          "netScore": -7,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-03-30T10:30:00.000Z"
-        },
-        {
-          "against": "Reading Mixed 1",
-          "scoreFor": 14,
-          "scoreAgainst": 9,
-          "netScore": 5,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-03-30T12:00:00.000Z"
-        },
-        {
-          "against": "Royal Goaltimate Society",
-          "scoreFor": 11,
-          "scoreAgainst": 15,
-          "netScore": -4,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 12",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-03-30T15:00:00.000Z"
-        },
-        {
-          "against": "Birmingham Ultimate",
-          "scoreFor": 4,
-          "scoreAgainst": 15,
-          "netScore": -11,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 12",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-03-31T09:00:00.000Z"
-        },
-        {
-          "against": "MIST",
-          "scoreFor": 4,
-          "scoreAgainst": 10,
-          "netScore": -6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 11",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-03-31T10:30:00.000Z"
-        },
-        {
-          "against": "SMOKE",
-          "scoreFor": 6,
-          "scoreAgainst": 10,
-          "netScore": -4,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 6",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-03-31T13:30:00.000Z"
         },
         {
           "against": "SMOG 2",
@@ -17635,6 +17470,61 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-03-31T15:00:00.000Z"
+        },
+        {
+          "against": "Reading 2",
+          "scoreFor": 7,
+          "scoreAgainst": 15,
+          "netScore": -8,
+          "tournament": "Maypole Mayhem 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-05-18T10:30:00.000Z"
+        },
+        {
+          "against": "Pic n Mix",
+          "scoreFor": 11,
+          "scoreAgainst": 10,
+          "netScore": 1,
+          "tournament": "Maypole Mayhem 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-05-18T12:00:00.000Z"
+        },
+        {
+          "against": "Norwich",
+          "scoreFor": 6,
+          "scoreAgainst": 18,
+          "netScore": -12,
+          "tournament": "Maypole Mayhem 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-05-18T15:00:00.000Z"
+        },
+        {
+          "against": "The Chilterns Collective",
+          "scoreFor": 10,
+          "scoreAgainst": 12,
+          "netScore": -2,
+          "tournament": "Maypole Mayhem 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-05-19T13:30:00.000Z"
+        },
+        {
+          "against": "GU Mixed 2",
+          "scoreFor": 12,
+          "scoreAgainst": 8,
+          "netScore": 4,
+          "tournament": "Maypole Mayhem 2019",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "16:30",
+          "timestamp": "2019-05-19T16:30:00.000Z"
         }
       ]
     },
@@ -18089,8 +17979,74 @@ statsData = {
       ]
     },
     {
-      "team": "Curve",
+      "team": "Curve Mixed",
       "games": [
+        {
+          "against": "EXƎ",
+          "scoreFor": 6,
+          "scoreAgainst": 14,
+          "netScore": -8,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-03-30T09:00:00.000Z"
+        },
+        {
+          "against": "Thundering Herd 2",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-03-30T10:30:00.000Z"
+        },
+        {
+          "against": "MUC Mixed",
+          "scoreFor": 10,
+          "scoreAgainst": 13,
+          "netScore": -3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-03-30T15:00:00.000Z"
+        },
+        {
+          "against": "LED Mixed",
+          "scoreFor": 9,
+          "scoreAgainst": 8,
+          "netScore": 1,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-03-31T09:00:00.000Z"
+        },
+        {
+          "against": "South Wales Storm",
+          "scoreFor": 7,
+          "scoreAgainst": 12,
+          "netScore": -5,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 18",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-03-31T12:00:00.000Z"
+        },
+        {
+          "against": "Zoo",
+          "scoreFor": 9,
+          "scoreAgainst": 7,
+          "netScore": 2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 12",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-03-31T15:00:00.000Z"
+        },
         {
           "against": "St Albans",
           "scoreFor": 5,
@@ -18222,77 +18178,6 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-05-19T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Curve Mixed",
-      "games": [
-        {
-          "against": "EXƎ",
-          "scoreFor": 6,
-          "scoreAgainst": 14,
-          "netScore": -8,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-03-30T09:00:00.000Z"
-        },
-        {
-          "against": "Thundering Herd 2",
-          "scoreFor": 9,
-          "scoreAgainst": 15,
-          "netScore": -6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-03-30T10:30:00.000Z"
-        },
-        {
-          "against": "MUC Mixed",
-          "scoreFor": 10,
-          "scoreAgainst": 13,
-          "netScore": -3,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-03-30T15:00:00.000Z"
-        },
-        {
-          "against": "LED Mixed",
-          "scoreFor": 9,
-          "scoreAgainst": 8,
-          "netScore": 1,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 9",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-03-31T09:00:00.000Z"
-        },
-        {
-          "against": "South Wales Storm",
-          "scoreFor": 7,
-          "scoreAgainst": 12,
-          "netScore": -5,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 18",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-03-31T12:00:00.000Z"
-        },
-        {
-          "against": "Zoo",
-          "scoreFor": 9,
-          "scoreAgainst": 7,
-          "netScore": 2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 12",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-03-31T15:00:00.000Z"
         },
         {
           "against": "Zooper Troupers",
@@ -20844,8 +20729,74 @@ statsData = {
       ]
     },
     {
-      "team": "Horsham",
+      "team": "Horsham Ultimate",
       "games": [
+        {
+          "against": "Chiquititas",
+          "scoreFor": 11,
+          "scoreAgainst": 4,
+          "netScore": 7,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-03-30T12:00:00.000Z"
+        },
+        {
+          "against": "PICNIC",
+          "scoreFor": 10,
+          "scoreAgainst": 8,
+          "netScore": 2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-03-30T13:30:00.000Z"
+        },
+        {
+          "against": "Oxford Ultimate Mixed",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-03-30T16:30:00.000Z"
+        },
+        {
+          "against": "GU Mixed 2",
+          "scoreFor": 8,
+          "scoreAgainst": 10,
+          "netScore": -2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 17",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-03-31T10:30:00.000Z"
+        },
+        {
+          "against": "Dreadnought Development Mixed",
+          "scoreFor": 8,
+          "scoreAgainst": 10,
+          "netScore": -2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-03-31T13:30:00.000Z"
+        },
+        {
+          "against": "Black Sheep Mixed 2",
+          "scoreFor": 15,
+          "scoreAgainst": 0,
+          "netScore": 15,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "16:30",
+          "timestamp": "2019-03-31T16:30:00.000Z"
+        },
         {
           "against": "Reading 2",
           "scoreFor": 4,
@@ -20966,77 +20917,6 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-05-19T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Horsham Ultimate",
-      "games": [
-        {
-          "against": "Chiquititas",
-          "scoreFor": 11,
-          "scoreAgainst": 4,
-          "netScore": 7,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-03-30T12:00:00.000Z"
-        },
-        {
-          "against": "PICNIC",
-          "scoreFor": 10,
-          "scoreAgainst": 8,
-          "netScore": 2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-03-30T13:30:00.000Z"
-        },
-        {
-          "against": "Oxford Ultimate Mixed",
-          "scoreFor": 10,
-          "scoreAgainst": 15,
-          "netScore": -5,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "16:30",
-          "timestamp": "2019-03-30T16:30:00.000Z"
-        },
-        {
-          "against": "GU Mixed 2",
-          "scoreFor": 8,
-          "scoreAgainst": 10,
-          "netScore": -2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 17",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-03-31T10:30:00.000Z"
-        },
-        {
-          "against": "Dreadnought Development Mixed",
-          "scoreFor": 8,
-          "scoreAgainst": 10,
-          "netScore": -2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-03-31T13:30:00.000Z"
-        },
-        {
-          "against": "Black Sheep Mixed 2",
-          "scoreFor": 15,
-          "scoreAgainst": 0,
-          "netScore": 15,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "16:30",
-          "timestamp": "2019-03-31T16:30:00.000Z"
         }
       ]
     },
@@ -21534,8 +21414,74 @@ statsData = {
       ]
     },
     {
-      "team": "LED",
+      "team": "LED Mixed",
       "games": [
+        {
+          "against": "Sharkbear!",
+          "scoreFor": 15,
+          "scoreAgainst": 3,
+          "netScore": 12,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-03-30T09:00:00.000Z"
+        },
+        {
+          "against": "Bristol Mixed",
+          "scoreFor": 14,
+          "scoreAgainst": 7,
+          "netScore": 7,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-03-30T10:30:00.000Z"
+        },
+        {
+          "against": "Geometrically Frustrated Magnets 1",
+          "scoreFor": 12,
+          "scoreAgainst": 10,
+          "netScore": 2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-03-30T13:30:00.000Z"
+        },
+        {
+          "against": "Curve Mixed",
+          "scoreFor": 8,
+          "scoreAgainst": 9,
+          "netScore": -1,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-03-31T09:00:00.000Z"
+        },
+        {
+          "against": "Black Sheep Mixed 1",
+          "scoreFor": 10,
+          "scoreAgainst": 6,
+          "netScore": 4,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 14",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-03-31T12:00:00.000Z"
+        },
+        {
+          "against": "Thundering Herd 2",
+          "scoreFor": 10,
+          "scoreAgainst": 8,
+          "netScore": 2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 13",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-03-31T13:30:00.000Z"
+        },
         {
           "against": "Black Sheep 1",
           "scoreFor": 10,
@@ -21605,78 +21551,7 @@ statsData = {
       ]
     },
     {
-      "team": "LED Mixed",
-      "games": [
-        {
-          "against": "Sharkbear!",
-          "scoreFor": 15,
-          "scoreAgainst": 3,
-          "netScore": 12,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-03-30T09:00:00.000Z"
-        },
-        {
-          "against": "Bristol Mixed",
-          "scoreFor": 14,
-          "scoreAgainst": 7,
-          "netScore": 7,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-03-30T10:30:00.000Z"
-        },
-        {
-          "against": "Geometrically Frustrated Magnets 1",
-          "scoreFor": 12,
-          "scoreAgainst": 10,
-          "netScore": 2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-03-30T13:30:00.000Z"
-        },
-        {
-          "against": "Curve Mixed",
-          "scoreFor": 8,
-          "scoreAgainst": 9,
-          "netScore": -1,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 9",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-03-31T09:00:00.000Z"
-        },
-        {
-          "against": "Black Sheep Mixed 1",
-          "scoreFor": 10,
-          "scoreAgainst": 6,
-          "netScore": 4,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 14",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-03-31T12:00:00.000Z"
-        },
-        {
-          "against": "Thundering Herd 2",
-          "scoreFor": 10,
-          "scoreAgainst": 8,
-          "netScore": 2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 13",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-03-31T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "LLLeeds Mixed  1",
+      "team": "LLLeeds Mixed 1",
       "games": [
         {
           "against": "MUC Mixed",
@@ -21743,12 +21618,7 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-03-31T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "LLLeeds Mixed 1",
-      "games": [
+        },
         {
           "against": "Reading 1",
           "scoreFor": 11,
@@ -21942,77 +21812,6 @@ statsData = {
       "team": "LLLeeds Mixed 2",
       "games": [
         {
-          "against": "The Brown",
-          "scoreFor": 6,
-          "scoreAgainst": 9,
-          "netScore": -3,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "09:30",
-          "timestamp": "2019-04-27T09:30:00.000Z"
-        },
-        {
-          "against": "Nemesis",
-          "scoreFor": 6,
-          "scoreAgainst": 11,
-          "netScore": -5,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 7",
-          "day": "Saturday",
-          "time": "10:50",
-          "timestamp": "2019-04-27T10:50:00.000Z"
-        },
-        {
-          "against": "MUC Mixed",
-          "scoreFor": 4,
-          "scoreAgainst": 12,
-          "netScore": -8,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 7",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-04-27T13:30:00.000Z"
-        },
-        {
-          "against": "Sneeekys 2",
-          "scoreFor": 9,
-          "scoreAgainst": 5,
-          "netScore": 4,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 7",
-          "day": "Saturday",
-          "time": "16:10",
-          "timestamp": "2019-04-27T16:10:00.000Z"
-        },
-        {
-          "against": "Manchester 1",
-          "scoreFor": 7,
-          "scoreAgainst": 9,
-          "netScore": -2,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 9",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-04-28T12:00:00.000Z"
-        },
-        {
-          "against": "Ouseburn Social Club",
-          "scoreFor": 10,
-          "scoreAgainst": 13,
-          "netScore": -3,
-          "tournament": "The Grey Towers of Durham 2019",
-          "pitch": "Pitch 8",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-04-28T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "LLLeeeds Mixed 2",
-      "games": [
-        {
           "against": "Meridian ",
           "scoreFor": 5,
           "scoreAgainst": 11,
@@ -22077,6 +21876,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-03-31T15:00:00.000Z"
+        },
+        {
+          "against": "The Brown",
+          "scoreFor": 6,
+          "scoreAgainst": 9,
+          "netScore": -3,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "09:30",
+          "timestamp": "2019-04-27T09:30:00.000Z"
+        },
+        {
+          "against": "Nemesis",
+          "scoreFor": 6,
+          "scoreAgainst": 11,
+          "netScore": -5,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-04-27T10:50:00.000Z"
+        },
+        {
+          "against": "MUC Mixed",
+          "scoreFor": 4,
+          "scoreAgainst": 12,
+          "netScore": -8,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-04-27T13:30:00.000Z"
+        },
+        {
+          "against": "Sneeekys 2",
+          "scoreFor": 9,
+          "scoreAgainst": 5,
+          "netScore": 4,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "16:10",
+          "timestamp": "2019-04-27T16:10:00.000Z"
+        },
+        {
+          "against": "Manchester 1",
+          "scoreFor": 7,
+          "scoreAgainst": 9,
+          "netScore": -2,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-04-28T12:00:00.000Z"
+        },
+        {
+          "against": "Ouseburn Social Club",
+          "scoreFor": 10,
+          "scoreAgainst": 13,
+          "netScore": -3,
+          "tournament": "The Grey Towers of Durham 2019",
+          "pitch": "Pitch 8",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-04-28T13:30:00.000Z"
         }
       ]
     },
@@ -23122,67 +22987,7 @@ statsData = {
       ]
     },
     {
-      "team": "Meridian",
-      "games": [
-        {
-          "against": "Reading Mixed 1",
-          "scoreFor": 4,
-          "scoreAgainst": 15,
-          "netScore": -11,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-08-03T09:00:00.000Z"
-        },
-        {
-          "against": "Deep Space",
-          "scoreFor": 3,
-          "scoreAgainst": 15,
-          "netScore": -12,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 6",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-08-03T12:00:00.000Z"
-        },
-        {
-          "against": "Purple Cobras Mixed",
-          "scoreFor": 8,
-          "scoreAgainst": 14,
-          "netScore": -6,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 6",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-08-03T13:30:00.000Z"
-        },
-        {
-          "against": "Zoo",
-          "scoreFor": 8,
-          "scoreAgainst": 10,
-          "netScore": -2,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 7",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-08-04T10:30:00.000Z"
-        },
-        {
-          "against": "Curve Mixed",
-          "scoreFor": 15,
-          "scoreAgainst": 6,
-          "netScore": 9,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-08-04T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Meridian ",
+      "team": "Meridian Ultimate",
       "games": [
         {
           "against": "LLLeeeds Mixed 2",
@@ -23249,12 +23054,7 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-03-31T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Meridian Ultimate",
-      "games": [
+        },
         {
           "against": "Bristol Mixed",
           "scoreFor": 4,
@@ -23386,6 +23186,61 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-05-19T13:30:00.000Z"
+        },
+        {
+          "against": "Reading Mixed 1",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-03T09:00:00.000Z"
+        },
+        {
+          "against": "Deep Space",
+          "scoreFor": 3,
+          "scoreAgainst": 15,
+          "netScore": -12,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-08-03T12:00:00.000Z"
+        },
+        {
+          "against": "Purple Cobras Mixed",
+          "scoreFor": 8,
+          "scoreAgainst": 14,
+          "netScore": -6,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-08-03T13:30:00.000Z"
+        },
+        {
+          "against": "Zoo",
+          "scoreFor": 8,
+          "scoreAgainst": 10,
+          "netScore": -2,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-08-04T10:30:00.000Z"
+        },
+        {
+          "against": "Curve Mixed",
+          "scoreFor": 15,
+          "scoreAgainst": 6,
+          "netScore": 9,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-08-04T15:00:00.000Z"
         }
       ]
     },
@@ -24667,7 +24522,7 @@ statsData = {
       ]
     },
     {
-      "team": "Purple Cobras",
+      "team": "Purple Cobras Mixed",
       "games": [
         {
           "against": "St Albans Mixed",
@@ -24855,12 +24710,7 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-05-19T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Purple Cobras Mixed",
-      "games": [
+        },
         {
           "against": "Deep Space",
           "scoreFor": 8,
@@ -24930,8 +24780,74 @@ statsData = {
       ]
     },
     {
-      "team": "Reading 1",
+      "team": "Reading Mixed 1",
       "games": [
+        {
+          "against": "Mighty Hucks",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-03-30T09:00:00.000Z"
+        },
+        {
+          "against": "Cambridge Ultimate 1",
+          "scoreFor": 9,
+          "scoreAgainst": 14,
+          "netScore": -5,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-03-30T12:00:00.000Z"
+        },
+        {
+          "against": "Cosmic Manatees",
+          "scoreFor": 14,
+          "scoreAgainst": 12,
+          "netScore": 2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 14",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-03-30T15:00:00.000Z"
+        },
+        {
+          "against": "MIST",
+          "scoreFor": 13,
+          "scoreAgainst": 10,
+          "netScore": 3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 11",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-03-31T09:00:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 13,
+          "scoreAgainst": 12,
+          "netScore": 1,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 12",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-03-31T10:30:00.000Z"
+        },
+        {
+          "against": "Thundering Herd 1",
+          "scoreFor": 7,
+          "scoreAgainst": 15,
+          "netScore": -8,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-03-31T13:30:00.000Z"
+        },
         {
           "against": "LLLeeds Mixed 1",
           "scoreFor": 13,
@@ -25063,12 +24979,133 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-05-19T15:00:00.000Z"
+        },
+        {
+          "against": "Meridian",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-03T09:00:00.000Z"
+        },
+        {
+          "against": "Purple Cobras Mixed",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-08-03T12:00:00.000Z"
+        },
+        {
+          "against": "Deep Space",
+          "scoreFor": 14,
+          "scoreAgainst": 7,
+          "netScore": 7,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-08-03T13:30:00.000Z"
+        },
+        {
+          "against": "Thundering Herd",
+          "scoreFor": 15,
+          "scoreAgainst": 11,
+          "netScore": 4,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 5",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-08-04T10:30:00.000Z"
+        },
+        {
+          "against": "Deep Space",
+          "scoreFor": 13,
+          "scoreAgainst": 9,
+          "netScore": 4,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-08-04T15:00:00.000Z"
         }
       ]
     },
     {
-      "team": "Reading 2",
+      "team": "Reading Mixed 2",
       "games": [
+        {
+          "against": "Zoo",
+          "scoreFor": 5,
+          "scoreAgainst": 14,
+          "netScore": -9,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-03-30T09:00:00.000Z"
+        },
+        {
+          "against": "Brixton Mixed",
+          "scoreFor": 6,
+          "scoreAgainst": 13,
+          "netScore": -7,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-03-30T10:30:00.000Z"
+        },
+        {
+          "against": "Dreadnought Mixed",
+          "scoreFor": 9,
+          "scoreAgainst": 13,
+          "netScore": -4,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-03-30T13:30:00.000Z"
+        },
+        {
+          "against": "North Wales Mixed",
+          "scoreFor": 10,
+          "scoreAgainst": 11,
+          "netScore": -1,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-03-31T10:30:00.000Z"
+        },
+        {
+          "against": "Zoo A",
+          "scoreFor": 14,
+          "scoreAgainst": 4,
+          "netScore": 10,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 17",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-03-31T13:30:00.000Z"
+        },
+        {
+          "against": "Cambridge Ultimate 2",
+          "scoreFor": 8,
+          "scoreAgainst": 11,
+          "netScore": -3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 17",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-03-31T15:00:00.000Z"
+        },
         {
           "against": "Horsham",
           "scoreFor": 8,
@@ -25211,203 +25248,6 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-05-19T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Reading Mixed 1",
-      "games": [
-        {
-          "against": "Mighty Hucks",
-          "scoreFor": 9,
-          "scoreAgainst": 15,
-          "netScore": -6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-03-30T09:00:00.000Z"
-        },
-        {
-          "against": "Cambridge Ultimate 1",
-          "scoreFor": 9,
-          "scoreAgainst": 14,
-          "netScore": -5,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-03-30T12:00:00.000Z"
-        },
-        {
-          "against": "Cosmic Manatees",
-          "scoreFor": 14,
-          "scoreAgainst": 12,
-          "netScore": 2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 14",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-03-30T15:00:00.000Z"
-        },
-        {
-          "against": "MIST",
-          "scoreFor": 13,
-          "scoreAgainst": 10,
-          "netScore": 3,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 11",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-03-31T09:00:00.000Z"
-        },
-        {
-          "against": "Birmingham Ultimate",
-          "scoreFor": 13,
-          "scoreAgainst": 12,
-          "netScore": 1,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 12",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-03-31T10:30:00.000Z"
-        },
-        {
-          "against": "Thundering Herd 1",
-          "scoreFor": 7,
-          "scoreAgainst": 15,
-          "netScore": -8,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 9",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-03-31T13:30:00.000Z"
-        },
-        {
-          "against": "Meridian",
-          "scoreFor": 15,
-          "scoreAgainst": 4,
-          "netScore": 11,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-08-03T09:00:00.000Z"
-        },
-        {
-          "against": "Purple Cobras Mixed",
-          "scoreFor": 15,
-          "scoreAgainst": 5,
-          "netScore": 10,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-08-03T12:00:00.000Z"
-        },
-        {
-          "against": "Deep Space",
-          "scoreFor": 14,
-          "scoreAgainst": 7,
-          "netScore": 7,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-08-03T13:30:00.000Z"
-        },
-        {
-          "against": "Thundering Herd",
-          "scoreFor": 15,
-          "scoreAgainst": 11,
-          "netScore": 4,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 5",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-08-04T10:30:00.000Z"
-        },
-        {
-          "against": "Deep Space",
-          "scoreFor": 13,
-          "scoreAgainst": 9,
-          "netScore": 4,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-08-04T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Reading Mixed 2",
-      "games": [
-        {
-          "against": "Zoo",
-          "scoreFor": 5,
-          "scoreAgainst": 14,
-          "netScore": -9,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-03-30T09:00:00.000Z"
-        },
-        {
-          "against": "Brixton Mixed",
-          "scoreFor": 6,
-          "scoreAgainst": 13,
-          "netScore": -7,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-03-30T10:30:00.000Z"
-        },
-        {
-          "against": "Dreadnought Mixed",
-          "scoreFor": 9,
-          "scoreAgainst": 13,
-          "netScore": -4,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 7",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-03-30T13:30:00.000Z"
-        },
-        {
-          "against": "North Wales Mixed",
-          "scoreFor": 10,
-          "scoreAgainst": 11,
-          "netScore": -1,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 6",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-03-31T10:30:00.000Z"
-        },
-        {
-          "against": "Zoo A",
-          "scoreFor": 14,
-          "scoreAgainst": 4,
-          "netScore": 10,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 17",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-03-31T13:30:00.000Z"
-        },
-        {
-          "against": "Cambridge Ultimate 2",
-          "scoreFor": 8,
-          "scoreAgainst": 11,
-          "netScore": -3,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 17",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-03-31T15:00:00.000Z"
         }
       ]
     },
@@ -26216,77 +26056,6 @@ statsData = {
       ]
     },
     {
-      "team": "Sneeekys",
-      "games": [
-        {
-          "against": "EKU",
-          "scoreFor": 5,
-          "scoreAgainst": 13,
-          "netScore": -8,
-          "tournament": "Caledonia’s Call 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "10:20",
-          "timestamp": "2019-05-18T10:20:00.000Z"
-        },
-        {
-          "against": "Farflung 2",
-          "scoreFor": 10,
-          "scoreAgainst": 5,
-          "netScore": 5,
-          "tournament": "Caledonia’s Call 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "13:00",
-          "timestamp": "2019-05-18T13:00:00.000Z"
-        },
-        {
-          "against": "Rogue Pandas",
-          "scoreFor": 4,
-          "scoreAgainst": 12,
-          "netScore": -8,
-          "tournament": "Caledonia’s Call 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "14:20",
-          "timestamp": "2019-05-18T14:20:00.000Z"
-        },
-        {
-          "against": "Glasgow 2",
-          "scoreFor": 9,
-          "scoreAgainst": 12,
-          "netScore": -3,
-          "tournament": "Caledonia’s Call 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-05-19T09:00:00.000Z"
-        },
-        {
-          "against": "Heriot Watt Alumni",
-          "scoreFor": 8,
-          "scoreAgainst": 15,
-          "netScore": -7,
-          "tournament": "Caledonia’s Call 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "13:00",
-          "timestamp": "2019-05-19T13:00:00.000Z"
-        },
-        {
-          "against": "Glasgow 3",
-          "scoreFor": 10,
-          "scoreAgainst": 12,
-          "netScore": -2,
-          "tournament": "Caledonia’s Call 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "14:20",
-          "timestamp": "2019-05-19T14:20:00.000Z"
-        }
-      ]
-    },
-    {
       "team": "Sneeekys 1",
       "games": [
         {
@@ -26354,6 +26123,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-04-28T15:00:00.000Z"
+        },
+        {
+          "against": "EKU",
+          "scoreFor": 5,
+          "scoreAgainst": 13,
+          "netScore": -8,
+          "tournament": "Caledonia’s Call 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "10:20",
+          "timestamp": "2019-05-18T10:20:00.000Z"
+        },
+        {
+          "against": "Farflung 2",
+          "scoreFor": 10,
+          "scoreAgainst": 5,
+          "netScore": 5,
+          "tournament": "Caledonia’s Call 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-05-18T13:00:00.000Z"
+        },
+        {
+          "against": "Rogue Pandas",
+          "scoreFor": 4,
+          "scoreAgainst": 12,
+          "netScore": -8,
+          "tournament": "Caledonia’s Call 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "14:20",
+          "timestamp": "2019-05-18T14:20:00.000Z"
+        },
+        {
+          "against": "Glasgow 2",
+          "scoreFor": 9,
+          "scoreAgainst": 12,
+          "netScore": -3,
+          "tournament": "Caledonia’s Call 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-05-19T09:00:00.000Z"
+        },
+        {
+          "against": "Heriot Watt Alumni",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "Caledonia’s Call 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "13:00",
+          "timestamp": "2019-05-19T13:00:00.000Z"
+        },
+        {
+          "against": "Glasgow 3",
+          "scoreFor": 10,
+          "scoreAgainst": 12,
+          "netScore": -2,
+          "tournament": "Caledonia’s Call 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "14:20",
+          "timestamp": "2019-05-19T14:20:00.000Z"
         }
       ]
     },
@@ -26571,8 +26406,74 @@ statsData = {
       ]
     },
     {
-      "team": "St Albans",
+      "team": "St Albans Mixed",
       "games": [
+        {
+          "against": "Purple Cobras",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-03-30T09:00:00.000Z"
+        },
+        {
+          "against": "Black Sheep Mixed 1",
+          "scoreFor": 8,
+          "scoreAgainst": 14,
+          "netScore": -6,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-03-30T10:30:00.000Z"
+        },
+        {
+          "against": "GU Mixed 1",
+          "scoreFor": 6,
+          "scoreAgainst": 15,
+          "netScore": -9,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-03-30T15:00:00.000Z"
+        },
+        {
+          "against": "Zoo",
+          "scoreFor": 7,
+          "scoreAgainst": 10,
+          "netScore": -3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-03-31T09:00:00.000Z"
+        },
+        {
+          "against": "Thundering Herd 2",
+          "scoreFor": 9,
+          "scoreAgainst": 10,
+          "netScore": -1,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 13",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-03-31T12:00:00.000Z"
+        },
+        {
+          "against": "Black Sheep Mixed 1",
+          "scoreFor": 13,
+          "scoreAgainst": 11,
+          "netScore": 2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-03-31T15:00:00.000Z"
+        },
         {
           "against": "Curve",
           "scoreFor": 6,
@@ -26682,77 +26583,6 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-05-19T13:30:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "St Albans Mixed",
-      "games": [
-        {
-          "against": "Purple Cobras",
-          "scoreFor": 4,
-          "scoreAgainst": 15,
-          "netScore": -11,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-03-30T09:00:00.000Z"
-        },
-        {
-          "against": "Black Sheep Mixed 1",
-          "scoreFor": 8,
-          "scoreAgainst": 14,
-          "netScore": -6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 8",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-03-30T10:30:00.000Z"
-        },
-        {
-          "against": "GU Mixed 1",
-          "scoreFor": 6,
-          "scoreAgainst": 15,
-          "netScore": -9,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-03-30T15:00:00.000Z"
-        },
-        {
-          "against": "Zoo",
-          "scoreFor": 7,
-          "scoreAgainst": 10,
-          "netScore": -3,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 7",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-03-31T09:00:00.000Z"
-        },
-        {
-          "against": "Thundering Herd 2",
-          "scoreFor": 9,
-          "scoreAgainst": 10,
-          "netScore": -1,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 13",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-03-31T12:00:00.000Z"
-        },
-        {
-          "against": "Black Sheep Mixed 1",
-          "scoreFor": 13,
-          "scoreAgainst": 11,
-          "netScore": 2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-03-31T15:00:00.000Z"
         },
         {
           "against": "GU Mixed 1",
@@ -27047,77 +26877,6 @@ statsData = {
       ]
     },
     {
-      "team": "Thundering Herd",
-      "games": [
-        {
-          "against": "Curve Mixed",
-          "scoreFor": 15,
-          "scoreAgainst": 1,
-          "netScore": 14,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 6",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-08-03T09:00:00.000Z"
-        },
-        {
-          "against": "Zoo",
-          "scoreFor": 15,
-          "scoreAgainst": 8,
-          "netScore": 7,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 6",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-08-03T10:30:00.000Z"
-        },
-        {
-          "against": "Guildford Ultimate 1",
-          "scoreFor": 8,
-          "scoreAgainst": 14,
-          "netScore": -6,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-08-03T13:30:00.000Z"
-        },
-        {
-          "against": "Reading Mixed 1",
-          "scoreFor": 11,
-          "scoreAgainst": 15,
-          "netScore": -4,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 5",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-08-04T10:30:00.000Z"
-        },
-        {
-          "against": "Purple Cobras Mixed",
-          "scoreFor": 12,
-          "scoreAgainst": 9,
-          "netScore": 3,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 5",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-08-04T12:00:00.000Z"
-        },
-        {
-          "against": "Guildford Ultimate 1",
-          "scoreFor": 9,
-          "scoreAgainst": 11,
-          "netScore": -2,
-          "tournament": "UKU Regionals (South) 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-08-04T15:00:00.000Z"
-        }
-      ]
-    },
-    {
       "team": "Thundering Herd 1",
       "games": [
         {
@@ -27394,6 +27153,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:20",
           "timestamp": "2019-07-21T15:20:00.000Z"
+        },
+        {
+          "against": "Curve Mixed",
+          "scoreFor": 15,
+          "scoreAgainst": 1,
+          "netScore": 14,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-03T09:00:00.000Z"
+        },
+        {
+          "against": "Zoo",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-08-03T10:30:00.000Z"
+        },
+        {
+          "against": "Guildford Ultimate 1",
+          "scoreFor": 8,
+          "scoreAgainst": 14,
+          "netScore": -6,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-08-03T13:30:00.000Z"
+        },
+        {
+          "against": "Reading Mixed 1",
+          "scoreFor": 11,
+          "scoreAgainst": 15,
+          "netScore": -4,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 5",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-08-04T10:30:00.000Z"
+        },
+        {
+          "against": "Purple Cobras Mixed",
+          "scoreFor": 12,
+          "scoreAgainst": 9,
+          "netScore": 3,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 5",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-08-04T12:00:00.000Z"
+        },
+        {
+          "against": "Guildford Ultimate 1",
+          "scoreFor": 9,
+          "scoreAgainst": 11,
+          "netScore": -2,
+          "tournament": "UKU Regionals (South) 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-08-04T15:00:00.000Z"
         }
       ]
     },
