@@ -1,5 +1,3 @@
-console.log(statsData);
-
 const container = document.querySelector('main.container');
 
 Object.keys(statsData).forEach(division => {
@@ -15,12 +13,10 @@ Object.keys(statsData).forEach(division => {
         teamItem.className = 'team-item';
 
         const link = document.createElement('a');
-        // link.setAttribute('href', `/team?name=${team}&division=${division}`)
+        link.setAttribute('href', `team.html?team=${team}&division=${division}`)
         link.appendChild(document.createTextNode(team));
 
-        const lastFiveGames = games.sort((a, b) => {
-            return a.timestamp < b.timestamp ? -1 : 1;
-        }).slice(-5);
+        const lastFiveGames = games.slice(-5);
 
         const resultsContainer = document.createElement('div');
         resultsContainer.className = 'result-indicators';
@@ -30,6 +26,7 @@ Object.keys(statsData).forEach(division => {
                 : game.netScore < 0 ? 'loss'
                 : 'draw';
             resultDiv.className = `result-indicator ${result}`;
+            resultDiv.setAttribute('title', `${result[0].toUpperCase() + result.slice(1)} ${game.scoreFor}-${game.scoreAgainst} vs ${game.against}`);
 
             resultsContainer.appendChild(resultDiv)
         });

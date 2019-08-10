@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>UltiMates Stats - Team</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link href="https://fonts.googleapis.com/css?family=Exo+2:300,400,700|Open+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css"
+        integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="../common.css">
+    <style>
+        .results-table {
+            margin-top: 32px;
+        }
+
+        .results-table tr {
+            border-bottom: 4px solid white;
+        }
+
+        .results-table th {
+            font-weight: bold;
+        }
+
+        .results-table td,
+        .results-table th {
+            padding: 8px 12px;
+        }
+
+        .results-table tr td:first-of-type {
+            text-align: center;
+        }
+
+        .results-table tr.win {
+            background-color: lightgreen;
+        }
+
+        .results-table tr.draw {
+            background-color: lightgrey;
+        }
+
+        .results-table tr.loss {
+            background-color: lightcoral;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <a class="brand" href="../">UltiMates</a>
+        <div class="links">
+            <a class="header-link" href="./">Stats</a>
+        </div>
+        <span class="twitter"><i class="fab fa-twitter"></i> <a href="https://twitter.com/matesulti"
+                target="_blank">MatesUlti</a></span>
+    </header>
+    <main class="container">
+        <div class="loading-message">
+            <p>Loading Data...</p>
+        </div>
+        <div class="error-message" hidden>
+            <p>Couldn't find data :(</p>
+            <a href="./">Back to stats homepage</a>
+        </div>
+    </main>
+    <script src="./data/combined-data.js"></script>
+    <script src="./stats-team.js"></script>
+</body>
+
+</html>
