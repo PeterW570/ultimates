@@ -5,7 +5,8 @@ for (let [key, val] of searchParams) {
   queryVals[key] = val;
 }
 
-const $container = document.querySelector('main.container');
+const $header = document.querySelector('.team-header');
+const $results = document.querySelector('.results-container');
 const $loading = document.querySelector('.loading-message');
 const $error = document.querySelector('.error-message');
 try {
@@ -14,11 +15,11 @@ try {
 
     const $team = document.createElement('h2');
     $team.appendChild(document.createTextNode(queryVals.team));
-    $container.appendChild($team);
+    $header.appendChild($team);
 
     const $division = document.createElement('h4');
     $division.appendChild(document.createTextNode(queryVals.division));
-    $container.appendChild($division);
+    $header.appendChild($division);
 
     if (games.length > 0) {
         const $table = document.createElement('table');
@@ -54,7 +55,7 @@ try {
                 : 'draw';
             $table.appendChild($tr);
         });
-        $container.appendChild($table);
+        $results.appendChild($table);
     }
     else {
         $error.hidden = false;
