@@ -597,72 +597,6 @@ statsData = {
           "timestamp": "2019-06-02T15:00:00.000Z"
         },
         {
-          "against": "Brighton Ultimate 2",
-          "scoreFor": 15,
-          "scoreAgainst": 0,
-          "netScore": 15,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-06-13T09:00:00.000Z"
-        },
-        {
-          "against": "SCU 1",
-          "scoreFor": 15,
-          "scoreAgainst": 1,
-          "netScore": 14,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-06-13T10:30:00.000Z"
-        },
-        {
-          "against": "Brixton Open",
-          "scoreFor": 15,
-          "scoreAgainst": 7,
-          "netScore": 8,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 6",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
-        },
-        {
-          "against": "Horsham Ultimate",
-          "scoreFor": 15,
-          "scoreAgainst": 7,
-          "netScore": 8,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-06-14T09:00:00.000Z"
-        },
-        {
-          "against": "Kent Open",
-          "scoreFor": 15,
-          "scoreAgainst": 4,
-          "netScore": 11,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-06-14T12:00:00.000Z"
-        },
-        {
-          "against": "Camden Ultimate",
-          "scoreFor": 13,
-          "scoreAgainst": 8,
-          "netScore": 5,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-06-14T15:00:00.000Z"
-        },
-        {
           "against": "EMO 1",
           "scoreFor": 15,
           "scoreAgainst": 5,
@@ -727,6 +661,72 @@ statsData = {
           "day": "Sunday",
           "time": "16:30",
           "timestamp": "2019-06-23T16:30:00.000Z"
+        },
+        {
+          "against": "Brighton Ultimate 2",
+          "scoreFor": 15,
+          "scoreAgainst": 0,
+          "netScore": 15,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-07-13T09:00:00.000Z"
+        },
+        {
+          "against": "SCU 1",
+          "scoreFor": 15,
+          "scoreAgainst": 1,
+          "netScore": 14,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Brixton Open",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "Horsham Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-07-14T09:00:00.000Z"
+        },
+        {
+          "against": "Kent Open",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "Camden Ultimate",
+          "scoreFor": 13,
+          "scoreAgainst": 8,
+          "netScore": 5,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-07-14T15:00:00.000Z"
         },
         {
           "against": "Clapham",
@@ -1283,72 +1283,6 @@ statsData = {
           "timestamp": "2019-06-02T15:00:00.000Z"
         },
         {
-          "against": "Horsham Ultimate",
-          "scoreFor": 15,
-          "scoreAgainst": 10,
-          "netScore": 5,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-06-13T09:00:00.000Z"
-        },
-        {
-          "against": "St Albans Open",
-          "scoreFor": 14,
-          "scoreAgainst": 5,
-          "netScore": 9,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-06-13T10:30:00.000Z"
-        },
-        {
-          "against": "Team Surrey Ultimate",
-          "scoreFor": 9,
-          "scoreAgainst": 11,
-          "netScore": -2,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 5",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
-        },
-        {
-          "against": "Kent Open",
-          "scoreFor": 10,
-          "scoreAgainst": 13,
-          "netScore": -3,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-06-14T09:00:00.000Z"
-        },
-        {
-          "against": "Horsham Ultimate",
-          "scoreFor": 15,
-          "scoreAgainst": 5,
-          "netScore": 10,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-06-14T10:30:00.000Z"
-        },
-        {
-          "against": "Brixton Open",
-          "scoreFor": 15,
-          "scoreAgainst": 5,
-          "netScore": 10,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-06-14T13:30:00.000Z"
-        },
-        {
           "against": "Flump Open 1",
           "scoreFor": 11,
           "scoreAgainst": 10,
@@ -1413,6 +1347,72 @@ statsData = {
           "day": "Sunday",
           "time": "16:30",
           "timestamp": "2019-06-23T16:30:00.000Z"
+        },
+        {
+          "against": "Horsham Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-07-13T09:00:00.000Z"
+        },
+        {
+          "against": "St Albans Open",
+          "scoreFor": 14,
+          "scoreAgainst": 5,
+          "netScore": 9,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Team Surrey Ultimate",
+          "scoreFor": 9,
+          "scoreAgainst": 11,
+          "netScore": -2,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "Kent Open",
+          "scoreFor": 10,
+          "scoreAgainst": 13,
+          "netScore": -3,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-07-14T09:00:00.000Z"
+        },
+        {
+          "against": "Horsham Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-07-14T10:30:00.000Z"
+        },
+        {
+          "against": "Brixton Open",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-07-14T13:30:00.000Z"
         },
         {
           "against": "Devon 1",
@@ -1494,7 +1494,7 @@ statsData = {
           "pitch": "Pitch 4",
           "day": "Saturday",
           "time": "09:00",
-          "timestamp": "2019-06-13T09:00:00.000Z"
+          "timestamp": "2019-07-13T09:00:00.000Z"
         },
         {
           "against": "SCU 1",
@@ -1505,7 +1505,7 @@ statsData = {
           "pitch": "Pitch 4",
           "day": "Saturday",
           "time": "12:00",
-          "timestamp": "2019-06-13T12:00:00.000Z"
+          "timestamp": "2019-07-13T12:00:00.000Z"
         },
         {
           "against": "Kent Open",
@@ -1516,7 +1516,7 @@ statsData = {
           "pitch": "Pitch 2",
           "day": "Saturday",
           "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
+          "timestamp": "2019-07-13T15:00:00.000Z"
         },
         {
           "against": "SCU 1",
@@ -1527,7 +1527,7 @@ statsData = {
           "pitch": "Pitch 2",
           "day": "Sunday",
           "time": "10:30",
-          "timestamp": "2019-06-14T10:30:00.000Z"
+          "timestamp": "2019-07-14T10:30:00.000Z"
         },
         {
           "against": "Curve Open",
@@ -1538,7 +1538,7 @@ statsData = {
           "pitch": "Pitch 3",
           "day": "Sunday",
           "time": "12:00",
-          "timestamp": "2019-06-14T12:00:00.000Z"
+          "timestamp": "2019-07-14T12:00:00.000Z"
         },
         {
           "against": "St Albans Open",
@@ -1549,7 +1549,7 @@ statsData = {
           "pitch": "Pitch 3",
           "day": "Sunday",
           "time": "15:00",
-          "timestamp": "2019-06-14T15:00:00.000Z"
+          "timestamp": "2019-07-14T15:00:00.000Z"
         }
       ]
     },
@@ -1963,72 +1963,6 @@ statsData = {
           "timestamp": "2019-06-02T15:30:00.000Z"
         },
         {
-          "against": "Kent Open",
-          "scoreFor": 10,
-          "scoreAgainst": 13,
-          "netScore": -3,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-06-13T09:00:00.000Z"
-        },
-        {
-          "against": "Plymouth Ultimate",
-          "scoreFor": 14,
-          "scoreAgainst": 3,
-          "netScore": 11,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-06-13T12:00:00.000Z"
-        },
-        {
-          "against": "BLU.",
-          "scoreFor": 7,
-          "scoreAgainst": 15,
-          "netScore": -8,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 6",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
-        },
-        {
-          "against": "Camden Ultimate",
-          "scoreFor": 9,
-          "scoreAgainst": 11,
-          "netScore": -2,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-06-14T09:00:00.000Z"
-        },
-        {
-          "against": "Plymouth Ultimate",
-          "scoreFor": 11,
-          "scoreAgainst": 6,
-          "netScore": 5,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-06-14T10:30:00.000Z"
-        },
-        {
-          "against": "Brighton Open",
-          "scoreFor": 5,
-          "scoreAgainst": 15,
-          "netScore": -10,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-06-14T13:30:00.000Z"
-        },
-        {
           "against": "The Chilterns Collective",
           "scoreFor": 13,
           "scoreAgainst": 8,
@@ -2104,6 +2038,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:20",
           "timestamp": "2019-06-23T15:20:00.000Z"
+        },
+        {
+          "against": "Kent Open",
+          "scoreFor": 10,
+          "scoreAgainst": 13,
+          "netScore": -3,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-07-13T09:00:00.000Z"
+        },
+        {
+          "against": "Plymouth Ultimate",
+          "scoreFor": 14,
+          "scoreAgainst": 3,
+          "netScore": 11,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-07-13T12:00:00.000Z"
+        },
+        {
+          "against": "BLU.",
+          "scoreFor": 7,
+          "scoreAgainst": 15,
+          "netScore": -8,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "Camden Ultimate",
+          "scoreFor": 9,
+          "scoreAgainst": 11,
+          "netScore": -2,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-07-14T09:00:00.000Z"
+        },
+        {
+          "against": "Plymouth Ultimate",
+          "scoreFor": 11,
+          "scoreAgainst": 6,
+          "netScore": 5,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-07-14T10:30:00.000Z"
+        },
+        {
+          "against": "Brighton Open",
+          "scoreFor": 5,
+          "scoreAgainst": 15,
+          "netScore": -10,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-07-14T13:30:00.000Z"
         }
       ]
     },
@@ -2314,72 +2314,6 @@ statsData = {
           "timestamp": "2019-06-02T15:30:00.000Z"
         },
         {
-          "against": "Team Surrey Ultimate",
-          "scoreFor": 10,
-          "scoreAgainst": 13,
-          "netScore": -3,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-06-13T09:00:00.000Z"
-        },
-        {
-          "against": "Curve Open",
-          "scoreFor": 13,
-          "scoreAgainst": 11,
-          "netScore": 2,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-06-13T10:30:00.000Z"
-        },
-        {
-          "against": "St Albans Open",
-          "scoreFor": 15,
-          "scoreAgainst": 9,
-          "netScore": 6,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
-        },
-        {
-          "against": "Brixton Open",
-          "scoreFor": 11,
-          "scoreAgainst": 9,
-          "netScore": 2,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-06-14T09:00:00.000Z"
-        },
-        {
-          "against": "Team Surrey Ultimate",
-          "scoreFor": 15,
-          "scoreAgainst": 9,
-          "netScore": 6,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-06-14T12:00:00.000Z"
-        },
-        {
-          "against": "BLU.",
-          "scoreFor": 8,
-          "scoreAgainst": 13,
-          "netScore": -5,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-06-14T15:00:00.000Z"
-        },
-        {
           "against": "The Chilterns Collective",
           "scoreFor": 14,
           "scoreAgainst": 6,
@@ -2444,6 +2378,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-23T15:00:00.000Z"
+        },
+        {
+          "against": "Team Surrey Ultimate",
+          "scoreFor": 10,
+          "scoreAgainst": 13,
+          "netScore": -3,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-07-13T09:00:00.000Z"
+        },
+        {
+          "against": "Curve Open",
+          "scoreFor": 13,
+          "scoreAgainst": 11,
+          "netScore": 2,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "St Albans Open",
+          "scoreFor": 15,
+          "scoreAgainst": 9,
+          "netScore": 6,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "Brixton Open",
+          "scoreFor": 11,
+          "scoreAgainst": 9,
+          "netScore": 2,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-07-14T09:00:00.000Z"
+        },
+        {
+          "against": "Team Surrey Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 9,
+          "netScore": 6,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "BLU.",
+          "scoreFor": 8,
+          "scoreAgainst": 13,
+          "netScore": -5,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-07-14T15:00:00.000Z"
         },
         {
           "against": "Clapham",
@@ -3027,72 +3027,6 @@ statsData = {
           "timestamp": "2019-06-02T15:30:00.000Z"
         },
         {
-          "against": "Camden Ultimate",
-          "scoreFor": 11,
-          "scoreAgainst": 13,
-          "netScore": -2,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-06-13T10:30:00.000Z"
-        },
-        {
-          "against": "Team Surrey Ultimate",
-          "scoreFor": 10,
-          "scoreAgainst": 12,
-          "netScore": -2,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-06-13T12:00:00.000Z"
-        },
-        {
-          "against": "Horsham Ultimate",
-          "scoreFor": 11,
-          "scoreAgainst": 14,
-          "netScore": -3,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
-        },
-        {
-          "against": "St Albans Open",
-          "scoreFor": 8,
-          "scoreAgainst": 15,
-          "netScore": -7,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-06-14T10:30:00.000Z"
-        },
-        {
-          "against": "Brighton Ultimate 2",
-          "scoreFor": 12,
-          "scoreAgainst": 5,
-          "netScore": 7,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-06-14T12:00:00.000Z"
-        },
-        {
-          "against": "SCU 1",
-          "scoreFor": 11,
-          "scoreAgainst": 10,
-          "netScore": 1,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-06-14T15:00:00.000Z"
-        },
-        {
           "against": "Kent Open",
           "scoreFor": 14,
           "scoreAgainst": 12,
@@ -3157,6 +3091,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-23T15:00:00.000Z"
+        },
+        {
+          "against": "Camden Ultimate",
+          "scoreFor": 11,
+          "scoreAgainst": 13,
+          "netScore": -2,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Team Surrey Ultimate",
+          "scoreFor": 10,
+          "scoreAgainst": 12,
+          "netScore": -2,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-07-13T12:00:00.000Z"
+        },
+        {
+          "against": "Horsham Ultimate",
+          "scoreFor": 11,
+          "scoreAgainst": 14,
+          "netScore": -3,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "St Albans Open",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-07-14T10:30:00.000Z"
+        },
+        {
+          "against": "Brighton Ultimate 2",
+          "scoreFor": 12,
+          "scoreAgainst": 5,
+          "netScore": 7,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "SCU 1",
+          "scoreFor": 11,
+          "scoreAgainst": 10,
+          "netScore": 1,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-07-14T15:00:00.000Z"
         }
       ]
     },
@@ -5200,7 +5200,7 @@ statsData = {
           "pitch": "Pitch 1",
           "day": "Saturday",
           "time": "09:00",
-          "timestamp": "2019-06-13T09:00:00.000Z"
+          "timestamp": "2019-07-13T09:00:00.000Z"
         },
         {
           "against": "St Albans Open",
@@ -5211,7 +5211,7 @@ statsData = {
           "pitch": "Pitch 1",
           "day": "Saturday",
           "time": "12:00",
-          "timestamp": "2019-06-13T12:00:00.000Z"
+          "timestamp": "2019-07-13T12:00:00.000Z"
         },
         {
           "against": "Curve Open",
@@ -5222,7 +5222,7 @@ statsData = {
           "pitch": "Pitch 4",
           "day": "Saturday",
           "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
+          "timestamp": "2019-07-13T15:00:00.000Z"
         },
         {
           "against": "BLU.",
@@ -5233,7 +5233,7 @@ statsData = {
           "pitch": "Pitch 1",
           "day": "Sunday",
           "time": "09:00",
-          "timestamp": "2019-06-14T09:00:00.000Z"
+          "timestamp": "2019-07-14T09:00:00.000Z"
         },
         {
           "against": "Brighton Open",
@@ -5244,7 +5244,7 @@ statsData = {
           "pitch": "Pitch 1",
           "day": "Sunday",
           "time": "10:30",
-          "timestamp": "2019-06-14T10:30:00.000Z"
+          "timestamp": "2019-07-14T10:30:00.000Z"
         },
         {
           "against": "Plymouth Ultimate",
@@ -5255,7 +5255,7 @@ statsData = {
           "pitch": "Pitch 3",
           "day": "Sunday",
           "time": "13:30",
-          "timestamp": "2019-06-14T13:30:00.000Z"
+          "timestamp": "2019-07-14T13:30:00.000Z"
         },
         {
           "against": "Fire of London 1",
@@ -5795,72 +5795,6 @@ statsData = {
           "timestamp": "2019-06-02T15:30:00.000Z"
         },
         {
-          "against": "Brixton Open",
-          "scoreFor": 13,
-          "scoreAgainst": 10,
-          "netScore": 3,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-06-13T09:00:00.000Z"
-        },
-        {
-          "against": "Plymouth Ultimate",
-          "scoreFor": 8,
-          "scoreAgainst": 14,
-          "netScore": -6,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-06-13T10:30:00.000Z"
-        },
-        {
-          "against": "Brighton Ultimate 2",
-          "scoreFor": 15,
-          "scoreAgainst": 2,
-          "netScore": 13,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
-        },
-        {
-          "against": "Brighton Open",
-          "scoreFor": 13,
-          "scoreAgainst": 10,
-          "netScore": 3,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-06-14T09:00:00.000Z"
-        },
-        {
-          "against": "BLU.",
-          "scoreFor": 4,
-          "scoreAgainst": 15,
-          "netScore": -11,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-06-14T12:00:00.000Z"
-        },
-        {
-          "against": "Team Surrey Ultimate",
-          "scoreFor": 15,
-          "scoreAgainst": 4,
-          "netScore": 11,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-06-14T15:00:00.000Z"
-        },
-        {
           "against": "Curve Open",
           "scoreFor": 12,
           "scoreAgainst": 14,
@@ -5925,6 +5859,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-23T15:00:00.000Z"
+        },
+        {
+          "against": "Brixton Open",
+          "scoreFor": 13,
+          "scoreAgainst": 10,
+          "netScore": 3,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-07-13T09:00:00.000Z"
+        },
+        {
+          "against": "Plymouth Ultimate",
+          "scoreFor": 8,
+          "scoreAgainst": 14,
+          "netScore": -6,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Brighton Ultimate 2",
+          "scoreFor": 15,
+          "scoreAgainst": 2,
+          "netScore": 13,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "Brighton Open",
+          "scoreFor": 13,
+          "scoreAgainst": 10,
+          "netScore": 3,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-07-14T09:00:00.000Z"
+        },
+        {
+          "against": "BLU.",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "Team Surrey Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-07-14T15:00:00.000Z"
         }
       ]
     },
@@ -7139,72 +7139,6 @@ statsData = {
           "timestamp": "2019-06-02T15:00:00.000Z"
         },
         {
-          "against": "Kent Open",
-          "scoreFor": 14,
-          "scoreAgainst": 8,
-          "netScore": 6,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-06-13T10:30:00.000Z"
-        },
-        {
-          "against": "Brixton Open",
-          "scoreFor": 3,
-          "scoreAgainst": 14,
-          "netScore": -11,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-06-13T12:00:00.000Z"
-        },
-        {
-          "against": "SCU 1",
-          "scoreFor": 14,
-          "scoreAgainst": 11,
-          "netScore": 3,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
-        },
-        {
-          "against": "Team Surrey Ultimate",
-          "scoreFor": 8,
-          "scoreAgainst": 13,
-          "netScore": -5,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-06-14T09:00:00.000Z"
-        },
-        {
-          "against": "Brixton Open",
-          "scoreFor": 6,
-          "scoreAgainst": 11,
-          "netScore": -5,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-06-14T10:30:00.000Z"
-        },
-        {
-          "against": "Horsham Ultimate",
-          "scoreFor": 10,
-          "scoreAgainst": 13,
-          "netScore": -3,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-06-14T13:30:00.000Z"
-        },
-        {
           "against": "Birmingham Ultimate",
           "scoreFor": 3,
           "scoreAgainst": 15,
@@ -7269,6 +7203,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-23T15:00:00.000Z"
+        },
+        {
+          "against": "Kent Open",
+          "scoreFor": 14,
+          "scoreAgainst": 8,
+          "netScore": 6,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Brixton Open",
+          "scoreFor": 3,
+          "scoreAgainst": 14,
+          "netScore": -11,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-07-13T12:00:00.000Z"
+        },
+        {
+          "against": "SCU 1",
+          "scoreFor": 14,
+          "scoreAgainst": 11,
+          "netScore": 3,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "Team Surrey Ultimate",
+          "scoreFor": 8,
+          "scoreAgainst": 13,
+          "netScore": -5,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-07-14T09:00:00.000Z"
+        },
+        {
+          "against": "Brixton Open",
+          "scoreFor": 6,
+          "scoreAgainst": 11,
+          "netScore": -5,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-07-14T10:30:00.000Z"
+        },
+        {
+          "against": "Horsham Ultimate",
+          "scoreFor": 10,
+          "scoreAgainst": 13,
+          "netScore": -3,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-07-14T13:30:00.000Z"
         }
       ]
     },
@@ -9031,72 +9031,6 @@ statsData = {
           "timestamp": "2019-06-02T15:00:00.000Z"
         },
         {
-          "against": "BLU.",
-          "scoreFor": 1,
-          "scoreAgainst": 15,
-          "netScore": -14,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-06-13T10:30:00.000Z"
-        },
-        {
-          "against": "Brighton Ultimate 2",
-          "scoreFor": 15,
-          "scoreAgainst": 5,
-          "netScore": 10,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-06-13T12:00:00.000Z"
-        },
-        {
-          "against": "Plymouth Ultimate",
-          "scoreFor": 11,
-          "scoreAgainst": 14,
-          "netScore": -3,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
-        },
-        {
-          "against": "Brighton Ultimate 2",
-          "scoreFor": 12,
-          "scoreAgainst": 6,
-          "netScore": 6,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-06-14T10:30:00.000Z"
-        },
-        {
-          "against": "St Albans Open",
-          "scoreFor": 8,
-          "scoreAgainst": 10,
-          "netScore": -2,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-06-14T12:00:00.000Z"
-        },
-        {
-          "against": "Curve Open",
-          "scoreFor": 10,
-          "scoreAgainst": 11,
-          "netScore": -1,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-06-14T15:00:00.000Z"
-        },
-        {
           "against": "Leamington Lemmings Open",
           "scoreFor": 7,
           "scoreAgainst": 15,
@@ -9161,6 +9095,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-06-23T15:00:00.000Z"
+        },
+        {
+          "against": "BLU.",
+          "scoreFor": 1,
+          "scoreAgainst": 15,
+          "netScore": -14,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Brighton Ultimate 2",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-07-13T12:00:00.000Z"
+        },
+        {
+          "against": "Plymouth Ultimate",
+          "scoreFor": 11,
+          "scoreAgainst": 14,
+          "netScore": -3,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "Brighton Ultimate 2",
+          "scoreFor": 12,
+          "scoreAgainst": 6,
+          "netScore": 6,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-07-14T10:30:00.000Z"
+        },
+        {
+          "against": "St Albans Open",
+          "scoreFor": 8,
+          "scoreAgainst": 10,
+          "netScore": -2,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "Curve Open",
+          "scoreFor": 10,
+          "scoreAgainst": 11,
+          "netScore": -1,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-07-14T15:00:00.000Z"
         },
         {
           "against": "Ka-Pow!",
@@ -9941,72 +9941,6 @@ statsData = {
           "timestamp": "2019-06-02T15:00:00.000Z"
         },
         {
-          "against": "Brighton Open",
-          "scoreFor": 5,
-          "scoreAgainst": 14,
-          "netScore": -9,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-06-13T10:30:00.000Z"
-        },
-        {
-          "against": "Horsham Ultimate",
-          "scoreFor": 11,
-          "scoreAgainst": 12,
-          "netScore": -1,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-06-13T12:00:00.000Z"
-        },
-        {
-          "against": "Camden Ultimate",
-          "scoreFor": 9,
-          "scoreAgainst": 15,
-          "netScore": -6,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
-        },
-        {
-          "against": "Curve Open",
-          "scoreFor": 15,
-          "scoreAgainst": 8,
-          "netScore": 7,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-06-14T10:30:00.000Z"
-        },
-        {
-          "against": "SCU 1",
-          "scoreFor": 10,
-          "scoreAgainst": 8,
-          "netScore": 2,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-06-14T12:00:00.000Z"
-        },
-        {
-          "against": "Brighton Ultimate 2",
-          "scoreFor": 15,
-          "scoreAgainst": 10,
-          "netScore": 5,
-          "tournament": "Edenbridge 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-06-14T15:00:00.000Z"
-        },
-        {
           "against": "Chiquititas",
           "scoreFor": 9,
           "scoreAgainst": 8,
@@ -10093,6 +10027,72 @@ statsData = {
           "day": "Sunday",
           "time": "14:10",
           "timestamp": "2019-06-23T14:10:00.000Z"
+        },
+        {
+          "against": "Brighton Open",
+          "scoreFor": 5,
+          "scoreAgainst": 14,
+          "netScore": -9,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-07-13T10:30:00.000Z"
+        },
+        {
+          "against": "Horsham Ultimate",
+          "scoreFor": 11,
+          "scoreAgainst": 12,
+          "netScore": -1,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-07-13T12:00:00.000Z"
+        },
+        {
+          "against": "Camden Ultimate",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-07-13T15:00:00.000Z"
+        },
+        {
+          "against": "Curve Open",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-07-14T10:30:00.000Z"
+        },
+        {
+          "against": "SCU 1",
+          "scoreFor": 10,
+          "scoreAgainst": 8,
+          "netScore": 2,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-07-14T12:00:00.000Z"
+        },
+        {
+          "against": "Brighton Ultimate 2",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "Edenbridge 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-07-14T15:00:00.000Z"
         }
       ]
     },
@@ -10108,7 +10108,7 @@ statsData = {
           "pitch": "Pitch 2",
           "day": "Saturday",
           "time": "09:00",
-          "timestamp": "2019-06-13T09:00:00.000Z"
+          "timestamp": "2019-07-13T09:00:00.000Z"
         },
         {
           "against": "Curve Open",
@@ -10119,7 +10119,7 @@ statsData = {
           "pitch": "Pitch 2",
           "day": "Saturday",
           "time": "12:00",
-          "timestamp": "2019-06-13T12:00:00.000Z"
+          "timestamp": "2019-07-13T12:00:00.000Z"
         },
         {
           "against": "Brighton Open",
@@ -10130,7 +10130,7 @@ statsData = {
           "pitch": "Pitch 5",
           "day": "Saturday",
           "time": "15:00",
-          "timestamp": "2019-06-13T15:00:00.000Z"
+          "timestamp": "2019-07-13T15:00:00.000Z"
         },
         {
           "against": "Plymouth Ultimate",
@@ -10141,7 +10141,7 @@ statsData = {
           "pitch": "Pitch 4",
           "day": "Sunday",
           "time": "09:00",
-          "timestamp": "2019-06-14T09:00:00.000Z"
+          "timestamp": "2019-07-14T09:00:00.000Z"
         },
         {
           "against": "Camden Ultimate",
@@ -10152,7 +10152,7 @@ statsData = {
           "pitch": "Pitch 1",
           "day": "Sunday",
           "time": "12:00",
-          "timestamp": "2019-06-14T12:00:00.000Z"
+          "timestamp": "2019-07-14T12:00:00.000Z"
         },
         {
           "against": "Kent Open",
@@ -10163,7 +10163,7 @@ statsData = {
           "pitch": "Pitch 2",
           "day": "Sunday",
           "time": "15:00",
-          "timestamp": "2019-06-14T15:00:00.000Z"
+          "timestamp": "2019-07-14T15:00:00.000Z"
         }
       ]
     },
