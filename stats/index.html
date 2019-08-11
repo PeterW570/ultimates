@@ -12,14 +12,14 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="../common.css">
   <style>
-    @media (min-width: 425px) {
-      .division-list {
-        float: left;
-      }
+    main.container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      grid-gap: 10px;
+    }
 
-      .division-list:not(:last-of-type) {
-        margin-right: 100px;
-      }
+    .main-heading {
+      grid-column: 1 / -1;
     }
 
     li.team-item {
@@ -57,7 +57,7 @@
     <span class="twitter"><i class="fab fa-twitter"></i> <a href="https://twitter.com/matesulti" target="_blank">MatesUlti</a></span>
   </header>
   <main class="container">
-    <h1>Stats</h1>
+    <h1 class="main-heading">Stats</h1>
   </main>
   <script src="./data/combined-data.js"></script>
   <script src="./stats-home.js"></script>
