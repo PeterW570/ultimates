@@ -15195,77 +15195,6 @@ statsData = {
       ]
     },
     {
-      "team": "SMOG Women",
-      "games": [
-        {
-          "against": "untitLED",
-          "scoreFor": 11,
-          "scoreAgainst": 5,
-          "netScore": 6,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:10",
-          "timestamp": "2019-06-22T10:10:00.000Z"
-        },
-        {
-          "against": "The Brown Women's 1",
-          "scoreFor": 15,
-          "scoreAgainst": 0,
-          "netScore": 15,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 2",
-          "day": "Saturday",
-          "time": "12:30",
-          "timestamp": "2019-06-22T12:30:00.000Z"
-        },
-        {
-          "against": "LLLeeds Women 1",
-          "scoreFor": 9,
-          "scoreAgainst": 8,
-          "netScore": 1,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "13:40",
-          "timestamp": "2019-06-22T13:40:00.000Z"
-        },
-        {
-          "against": "Scram 2",
-          "scoreFor": 15,
-          "scoreAgainst": 1,
-          "netScore": 14,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 4",
-          "day": "Saturday",
-          "time": "17:10",
-          "timestamp": "2019-06-22T17:10:00.000Z"
-        },
-        {
-          "against": "Hydra",
-          "scoreFor": 15,
-          "scoreAgainst": 3,
-          "netScore": 12,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 2",
-          "day": "Sunday",
-          "time": "10:50",
-          "timestamp": "2019-06-23T10:50:00.000Z"
-        },
-        {
-          "against": "Scram 1",
-          "scoreFor": 15,
-          "scoreAgainst": 13,
-          "netScore": 2,
-          "tournament": "Junction 7 2019",
-          "pitch": "Pitch 1",
-          "day": "Sunday",
-          "time": "14:30",
-          "timestamp": "2019-06-23T14:30:00.000Z"
-        }
-      ]
-    },
-    {
       "team": "SMOG Women 1",
       "games": [
         {
@@ -15333,6 +15262,72 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-06-02T13:30:00.000Z"
+        },
+        {
+          "against": "untitLED",
+          "scoreFor": 11,
+          "scoreAgainst": 5,
+          "netScore": 6,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:10",
+          "timestamp": "2019-06-22T10:10:00.000Z"
+        },
+        {
+          "against": "The Brown Women's 1",
+          "scoreFor": 15,
+          "scoreAgainst": 0,
+          "netScore": 15,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "12:30",
+          "timestamp": "2019-06-22T12:30:00.000Z"
+        },
+        {
+          "against": "LLLeeds Women 1",
+          "scoreFor": 9,
+          "scoreAgainst": 8,
+          "netScore": 1,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "13:40",
+          "timestamp": "2019-06-22T13:40:00.000Z"
+        },
+        {
+          "against": "Scram 2",
+          "scoreFor": 15,
+          "scoreAgainst": 1,
+          "netScore": 14,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "17:10",
+          "timestamp": "2019-06-22T17:10:00.000Z"
+        },
+        {
+          "against": "Hydra",
+          "scoreFor": 15,
+          "scoreAgainst": 3,
+          "netScore": 12,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "10:50",
+          "timestamp": "2019-06-23T10:50:00.000Z"
+        },
+        {
+          "against": "Scram 1",
+          "scoreFor": 15,
+          "scoreAgainst": 13,
+          "netScore": 2,
+          "tournament": "Junction 7 2019",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-06-23T14:30:00.000Z"
         }
       ]
     },
@@ -20234,8 +20229,74 @@ statsData = {
       ]
     },
     {
-      "team": "Geometrically Frustrated Magnets",
+      "team": "Geometrically Frustrated Magnets 1",
       "games": [
+        {
+          "against": "Bristol Mixed",
+          "scoreFor": 15,
+          "scoreAgainst": 9,
+          "netScore": 6,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-03-30T09:00:00.000Z"
+        },
+        {
+          "against": "Sharkbear!",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-03-30T10:30:00.000Z"
+        },
+        {
+          "against": "LED Mixed",
+          "scoreFor": 10,
+          "scoreAgainst": 12,
+          "netScore": -2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-03-30T13:30:00.000Z"
+        },
+        {
+          "against": "Ouseburn Social Club",
+          "scoreFor": 15,
+          "scoreAgainst": 6,
+          "netScore": 9,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 18",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-03-31T09:00:00.000Z"
+        },
+        {
+          "against": "DK",
+          "scoreFor": 6,
+          "scoreAgainst": 12,
+          "netScore": -6,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 10",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-03-31T12:00:00.000Z"
+        },
+        {
+          "against": "Bristol Mixed",
+          "scoreFor": 13,
+          "scoreAgainst": 2,
+          "netScore": 11,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-03-31T15:00:00.000Z"
+        },
         {
           "against": "Black Sheep 2",
           "scoreFor": 15,
@@ -20356,77 +20417,6 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-05-19T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Geometrically Frustrated Magnets 1",
-      "games": [
-        {
-          "against": "Bristol Mixed",
-          "scoreFor": 15,
-          "scoreAgainst": 9,
-          "netScore": 6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "09:00",
-          "timestamp": "2019-03-30T09:00:00.000Z"
-        },
-        {
-          "against": "Sharkbear!",
-          "scoreFor": 15,
-          "scoreAgainst": 4,
-          "netScore": 11,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-03-30T10:30:00.000Z"
-        },
-        {
-          "against": "LED Mixed",
-          "scoreFor": 10,
-          "scoreAgainst": 12,
-          "netScore": -2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-03-30T13:30:00.000Z"
-        },
-        {
-          "against": "Ouseburn Social Club",
-          "scoreFor": 15,
-          "scoreAgainst": 6,
-          "netScore": 9,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 18",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-03-31T09:00:00.000Z"
-        },
-        {
-          "against": "DK",
-          "scoreFor": 6,
-          "scoreAgainst": 12,
-          "netScore": -6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 10",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-03-31T12:00:00.000Z"
-        },
-        {
-          "against": "Bristol Mixed",
-          "scoreFor": 13,
-          "scoreAgainst": 2,
-          "netScore": 11,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-03-31T15:00:00.000Z"
         }
       ]
     },
