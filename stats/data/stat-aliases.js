@@ -34,6 +34,8 @@ statAliases = {
         'Cambridge 2': 'Cambridge Ultimate 2',
         'Curve': 'Curve Mixed',
         'Geometrically Frustrated Magnets': 'Geometrically Frustrated Magnets 1',
+        'GU Mixed 1': 'Guildford Ultimate 1',
+        'GU Mixed 2': 'Guildford Ultimate 2',
         'Horsham': 'Horsham Ultimate',
         'LED': 'LED Mixed',
         'LLLeeds Mixed  1': 'LLLeeds Mixed 1',
