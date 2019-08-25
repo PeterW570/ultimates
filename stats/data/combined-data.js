@@ -255,6 +255,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-08-04T15:00:00.000Z"
+        },
+        {
+          "against": "Manchester Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Chevron Action Flash",
+          "scoreFor": 12,
+          "scoreAgainst": 13,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 11",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "EMO 1",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "XVI",
+          "scoreFor": 15,
+          "scoreAgainst": 13,
+          "netScore": 2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 15,
+          "scoreAgainst": 13,
+          "netScore": 2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
+        },
+        {
+          "against": "Devon 1",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
@@ -524,6 +590,61 @@ statsData = {
           "day": "Sunday",
           "time": "16:30",
           "timestamp": "2019-08-04T16:30:00.000Z"
+        },
+        {
+          "against": "Clapham",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "EMO 1",
+          "scoreFor": 7,
+          "scoreAgainst": 15,
+          "netScore": -8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "12:40",
+          "timestamp": "2019-08-24T12:40:00.000Z"
+        },
+        {
+          "against": "Bristol Open 1",
+          "scoreFor": 15,
+          "scoreAgainst": 11,
+          "netScore": 4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Saturday",
+          "time": "14:30",
+          "timestamp": "2019-08-24T14:30:00.000Z"
+        },
+        {
+          "against": "Manchester Ultimate",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Fire of London 1",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
         }
       ]
     },
@@ -1479,6 +1600,61 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-08-04T13:30:00.000Z"
+        },
+        {
+          "against": "Ka-Pow!",
+          "scoreFor": 14,
+          "scoreAgainst": 15,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Fire of London 1",
+          "scoreFor": 12,
+          "scoreAgainst": 11,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Saturday",
+          "time": "12:40",
+          "timestamp": "2019-08-24T12:40:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 13",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "YOpen",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "EMO 1",
+          "scoreFor": 9,
+          "scoreAgainst": 13,
+          "netScore": -4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
         }
       ]
     },
@@ -1819,6 +1995,61 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-08-04T13:30:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 3,
+          "scoreAgainst": 15,
+          "netScore": -12,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 12",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "XVI",
+          "scoreFor": 6,
+          "scoreAgainst": 15,
+          "netScore": -9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 10",
+          "day": "Saturday",
+          "time": "12:40",
+          "timestamp": "2019-08-24T12:40:00.000Z"
+        },
+        {
+          "against": "BAF",
+          "scoreFor": 11,
+          "scoreAgainst": 15,
+          "netScore": -4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Saturday",
+          "time": "14:30",
+          "timestamp": "2019-08-24T14:30:00.000Z"
+        },
+        {
+          "against": "Fire of London 1",
+          "scoreFor": 14,
+          "scoreAgainst": 15,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Manchester Ultimate",
+          "scoreFor": 13,
+          "scoreAgainst": 15,
+          "netScore": -2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
         }
       ]
     },
@@ -2691,6 +2922,50 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-08-04T15:00:00.000Z"
+        },
+        {
+          "against": "YOpen",
+          "scoreFor": 15,
+          "scoreAgainst": 3,
+          "netScore": 12,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Alba",
+          "scoreFor": 13,
+          "scoreAgainst": 12,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 11",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Devon 1",
+          "scoreFor": 15,
+          "scoreAgainst": 6,
+          "netScore": 9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "17:30",
+          "timestamp": "2019-08-24T17:30:00.000Z"
+        },
+        {
+          "against": "Clapham",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
         }
       ]
     },
@@ -2954,6 +3229,50 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-08-04T13:30:00.000Z"
+        },
+        {
+          "against": "BAF",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 15,
+          "scoreAgainst": 6,
+          "netScore": 9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 13",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Ranelagh",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "17:30",
+          "timestamp": "2019-08-24T17:30:00.000Z"
+        },
+        {
+          "against": "Chevron Action Flash",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
         }
       ]
     },
@@ -3415,6 +3734,61 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-08-04T13:30:00.000Z"
+        },
+        {
+          "against": "Fire of London 1",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Ka-Pow!",
+          "scoreFor": 15,
+          "scoreAgainst": 9,
+          "netScore": 6,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Chevron Action Flash",
+          "scoreFor": 6,
+          "scoreAgainst": 15,
+          "netScore": -9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "17:30",
+          "timestamp": "2019-08-24T17:30:00.000Z"
+        },
+        {
+          "against": "Ranelagh",
+          "scoreFor": 7,
+          "scoreAgainst": 15,
+          "netScore": -8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
+        },
+        {
+          "against": "Alba",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
@@ -3695,6 +4069,61 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-08-04T15:00:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 11,
+          "scoreAgainst": 15,
+          "netScore": -4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "BAF",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "12:40",
+          "timestamp": "2019-08-24T12:40:00.000Z"
+        },
+        {
+          "against": "Alba",
+          "scoreFor": 5,
+          "scoreAgainst": 15,
+          "netScore": -10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "Ka-Pow!",
+          "scoreFor": 15,
+          "scoreAgainst": 13,
+          "netScore": 2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Brighton Open",
+          "scoreFor": 13,
+          "scoreAgainst": 9,
+          "netScore": 4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
         }
       ]
     },
@@ -4238,6 +4667,61 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-08-04T13:30:00.000Z"
+        },
+        {
+          "against": "Devon 1",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Brighton Open",
+          "scoreFor": 11,
+          "scoreAgainst": 12,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Saturday",
+          "time": "12:40",
+          "timestamp": "2019-08-24T12:40:00.000Z"
+        },
+        {
+          "against": "Manchester Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 12,
+          "netScore": 3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "14:30",
+          "timestamp": "2019-08-24T14:30:00.000Z"
+        },
+        {
+          "against": "Bristol Open 1",
+          "scoreFor": 15,
+          "scoreAgainst": 14,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "BAF",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
         }
       ]
     },
@@ -5722,6 +6206,61 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-08-04T13:30:00.000Z"
+        },
+        {
+          "against": "Brighton Open",
+          "scoreFor": 15,
+          "scoreAgainst": 14,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Devon 1",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "XVI",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "EMO 1",
+          "scoreFor": 13,
+          "scoreAgainst": 15,
+          "netScore": -2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "YOpen",
+          "scoreFor": 15,
+          "scoreAgainst": 1,
+          "netScore": 14,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
         }
       ]
     },
@@ -6781,6 +7320,61 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-08-04T15:00:00.000Z"
+        },
+        {
+          "against": "Alba",
+          "scoreFor": 5,
+          "scoreAgainst": 15,
+          "netScore": -10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "YOpen",
+          "scoreFor": 13,
+          "scoreAgainst": 14,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "12:40",
+          "timestamp": "2019-08-24T12:40:00.000Z"
+        },
+        {
+          "against": "Fire of London 1",
+          "scoreFor": 12,
+          "scoreAgainst": 15,
+          "netScore": -3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "14:30",
+          "timestamp": "2019-08-24T14:30:00.000Z"
+        },
+        {
+          "against": "BAF",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Bristol Open 1",
+          "scoreFor": 15,
+          "scoreAgainst": 13,
+          "netScore": 2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
         }
       ]
     },
@@ -7066,6 +7660,61 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-06-02T13:30:00.000Z"
+        },
+        {
+          "against": "Bristol Open 1",
+          "scoreFor": 15,
+          "scoreAgainst": 3,
+          "netScore": 12,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 12",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Ranelagh",
+          "scoreFor": 9,
+          "scoreAgainst": 12,
+          "netScore": -3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 12",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Brighton Open",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 13",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 14,
+          "scoreAgainst": 15,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 10",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "XVI",
+          "scoreFor": 14,
+          "scoreAgainst": 13,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
         }
       ]
     },
@@ -7664,6 +8313,50 @@ statsData = {
           "day": "Sunday",
           "time": "14:40",
           "timestamp": "2019-07-14T14:40:00.000Z"
+        },
+        {
+          "against": "XVI",
+          "scoreFor": 15,
+          "scoreAgainst": 12,
+          "netScore": 3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 12,
+          "scoreAgainst": 9,
+          "netScore": 3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 12",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Clapham",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "17:30",
+          "timestamp": "2019-08-24T17:30:00.000Z"
+        },
+        {
+          "against": "Devon 1",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
         }
       ]
     },
@@ -8344,6 +9037,61 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-07-14T15:00:00.000Z"
+        },
+        {
+          "against": "EMO 1",
+          "scoreFor": 15,
+          "scoreAgainst": 11,
+          "netScore": 4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Clapham",
+          "scoreFor": 6,
+          "scoreAgainst": 15,
+          "netScore": -9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 13",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "YOpen",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 15,
+          "scoreAgainst": 14,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 10",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Alba",
+          "scoreFor": 13,
+          "scoreAgainst": 15,
+          "netScore": -2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
         }
       ]
     },
@@ -11160,6 +11908,66 @@ statsData = {
       ]
     },
     {
+      "team": "XVI",
+      "games": [
+        {
+          "against": "Ranelagh",
+          "scoreFor": 12,
+          "scoreAgainst": 15,
+          "netScore": -3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Bristol Open 1",
+          "scoreFor": 15,
+          "scoreAgainst": 6,
+          "netScore": 9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 10",
+          "day": "Saturday",
+          "time": "12:40",
+          "timestamp": "2019-08-24T12:40:00.000Z"
+        },
+        {
+          "against": "Ka-Pow!",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "Alba",
+          "scoreFor": 13,
+          "scoreAgainst": 15,
+          "netScore": -2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 13,
+          "scoreAgainst": 14,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
+        }
+      ]
+    },
+    {
       "team": "YOpen",
       "games": [
         {
@@ -11447,6 +12255,61 @@ statsData = {
           "day": "Sunday",
           "time": "16:30",
           "timestamp": "2019-08-04T16:30:00.000Z"
+        },
+        {
+          "against": "Chevron Action Flash",
+          "scoreFor": 3,
+          "scoreAgainst": 15,
+          "netScore": -12,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Manchester Ultimate",
+          "scoreFor": 14,
+          "scoreAgainst": 13,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "12:40",
+          "timestamp": "2019-08-24T12:40:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 5,
+          "scoreAgainst": 15,
+          "netScore": -10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "Brighton Open",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Ka-Pow!",
+          "scoreFor": 1,
+          "scoreAgainst": 15,
+          "netScore": -14,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
         }
       ]
     },
@@ -12068,6 +12931,61 @@ statsData = {
           "day": "Sunday",
           "time": "12:00",
           "timestamp": "2019-08-04T12:00:00.000Z"
+        },
+        {
+          "against": "SYC",
+          "scoreFor": 15,
+          "scoreAgainst": 11,
+          "netScore": 4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "SCRAM",
+          "scoreFor": 15,
+          "scoreAgainst": 6,
+          "netScore": 9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Red Women",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "15:15",
+          "timestamp": "2019-08-24T15:15:00.000Z"
+        },
+        {
+          "against": "Iceni",
+          "scoreFor": 8,
+          "scoreAgainst": 12,
+          "netScore": -4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "13:00",
+          "timestamp": "2019-08-25T13:00:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 15,
+          "scoreAgainst": 0,
+          "netScore": 15,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-08-25T15:00:00.000Z"
         }
       ]
     },
@@ -13310,6 +14228,66 @@ statsData = {
       ]
     },
     {
+      "team": "Gravity",
+      "games": [
+        {
+          "against": "Iceni",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 15,
+          "scoreAgainst": 6,
+          "netScore": 9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Throwback",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 15,
+          "scoreAgainst": 3,
+          "netScore": 12,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "13:00",
+          "timestamp": "2019-08-25T13:00:00.000Z"
+        },
+        {
+          "against": "Iceni",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "16:00",
+          "timestamp": "2019-08-25T16:00:00.000Z"
+        }
+      ]
+    },
+    {
       "team": "Hydra",
       "games": [
         {
@@ -13668,6 +14646,72 @@ statsData = {
           "day": "Sunday",
           "time": "12:00",
           "timestamp": "2019-08-04T12:00:00.000Z"
+        },
+        {
+          "against": "Gravity",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Throwback",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 15,
+          "scoreAgainst": 12,
+          "netScore": 3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "SCRAM",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Bristol",
+          "scoreFor": 12,
+          "scoreAgainst": 8,
+          "netScore": 4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "13:00",
+          "timestamp": "2019-08-25T13:00:00.000Z"
+        },
+        {
+          "against": "Gravity",
+          "scoreFor": 7,
+          "scoreAgainst": 15,
+          "netScore": -8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "16:00",
+          "timestamp": "2019-08-25T16:00:00.000Z"
         }
       ]
     },
@@ -14548,6 +15592,137 @@ statsData = {
       ]
     },
     {
+      "team": "Rebel",
+      "games": [
+        {
+          "against": "Throwback",
+          "scoreFor": 13,
+          "scoreAgainst": 12,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Gravity",
+          "scoreFor": 6,
+          "scoreAgainst": 15,
+          "netScore": -9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Iceni",
+          "scoreFor": 12,
+          "scoreAgainst": 15,
+          "netScore": -3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "SYC",
+          "scoreFor": 13,
+          "scoreAgainst": 11,
+          "netScore": 2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Gravity",
+          "scoreFor": 3,
+          "scoreAgainst": 15,
+          "netScore": -12,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "13:00",
+          "timestamp": "2019-08-25T13:00:00.000Z"
+        },
+        {
+          "against": "Bristol",
+          "scoreFor": 0,
+          "scoreAgainst": 15,
+          "netScore": -15,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-08-25T15:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "team": "Red Women",
+      "games": [
+        {
+          "against": "SCRAM",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "SYC",
+          "scoreFor": 5,
+          "scoreAgainst": 15,
+          "netScore": -10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Bristol",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "15:15",
+          "timestamp": "2019-08-24T15:15:00.000Z"
+        },
+        {
+          "against": "SYC",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
+        },
+        {
+          "against": "Throwback",
+          "scoreFor": 7,
+          "scoreAgainst": 15,
+          "netScore": -8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 11",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
+        }
+      ]
+    },
+    {
       "team": "Red Women 1",
       "games": [
         {
@@ -15120,6 +16295,72 @@ statsData = {
           "day": "Sunday",
           "time": "13:30",
           "timestamp": "2019-07-14T13:30:00.000Z"
+        },
+        {
+          "against": "Red Women",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Bristol",
+          "scoreFor": 6,
+          "scoreAgainst": 15,
+          "netScore": -9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "SYC",
+          "scoreFor": 13,
+          "scoreAgainst": 14,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "15:15",
+          "timestamp": "2019-08-24T15:15:00.000Z"
+        },
+        {
+          "against": "Iceni",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Throwback",
+          "scoreFor": 12,
+          "scoreAgainst": 11,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 11",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
+        },
+        {
+          "against": "SYC",
+          "scoreFor": 11,
+          "scoreAgainst": 10,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
@@ -15443,6 +16684,72 @@ statsData = {
           "day": "Sunday",
           "time": "12:00",
           "timestamp": "2019-08-04T12:00:00.000Z"
+        },
+        {
+          "against": "Bristol",
+          "scoreFor": 11,
+          "scoreAgainst": 15,
+          "netScore": -4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "09:00",
+          "timestamp": "2019-08-24T09:00:00.000Z"
+        },
+        {
+          "against": "Red Women",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "SCRAM",
+          "scoreFor": 14,
+          "scoreAgainst": 13,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "15:15",
+          "timestamp": "2019-08-24T15:15:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 11,
+          "scoreAgainst": 13,
+          "netScore": -2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Red Women",
+          "scoreFor": 15,
+          "scoreAgainst": 9,
+          "netScore": 6,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
+        },
+        {
+          "against": "SCRAM",
+          "scoreFor": 10,
+          "scoreAgainst": 11,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
@@ -15705,6 +17012,61 @@ statsData = {
           "day": "Sunday",
           "time": "12:00",
           "timestamp": "2019-08-04T12:00:00.000Z"
+        },
+        {
+          "against": "Rebel",
+          "scoreFor": 12,
+          "scoreAgainst": 13,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 5",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Iceni",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 6",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Gravity",
+          "scoreFor": 7,
+          "scoreAgainst": 15,
+          "netScore": -8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "SCRAM",
+          "scoreFor": 11,
+          "scoreAgainst": 12,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 11",
+          "day": "Sunday",
+          "time": "12:40",
+          "timestamp": "2019-08-25T12:40:00.000Z"
+        },
+        {
+          "against": "Red Women",
+          "scoreFor": 15,
+          "scoreAgainst": 7,
+          "netScore": 8,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 11",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
@@ -16497,6 +17859,72 @@ statsData = {
           "day": "Sunday",
           "time": "16:30",
           "timestamp": "2019-08-04T16:30:00.000Z"
+        },
+        {
+          "against": "SMOG 1",
+          "scoreFor": 9,
+          "scoreAgainst": 12,
+          "netScore": -3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Cambridge Ultimate 1",
+          "scoreFor": 13,
+          "scoreAgainst": 14,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "14:30",
+          "timestamp": "2019-08-24T14:30:00.000Z"
+        },
+        {
+          "against": "SMOG 2",
+          "scoreFor": 13,
+          "scoreAgainst": 10,
+          "netScore": 3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "17:30",
+          "timestamp": "2019-08-24T17:30:00.000Z"
+        },
+        {
+          "against": "Deep Space",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Reading Mixed 1",
+          "scoreFor": 11,
+          "scoreAgainst": 15,
+          "netScore": -4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
+        },
+        {
+          "against": "Guildford Ultimate 1",
+          "scoreFor": 15,
+          "scoreAgainst": 9,
+          "netScore": 6,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
@@ -17687,6 +19115,61 @@ statsData = {
           "day": "Sunday",
           "time": "16:30",
           "timestamp": "2019-08-04T16:30:00.000Z"
+        },
+        {
+          "against": "SMOG 2",
+          "scoreFor": 11,
+          "scoreAgainst": 13,
+          "netScore": -2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 14,
+          "scoreAgainst": 13,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Saturday",
+          "time": "14:30",
+          "timestamp": "2019-08-24T14:30:00.000Z"
+        },
+        {
+          "against": "SMOG 1",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "17:30",
+          "timestamp": "2019-08-24T17:30:00.000Z"
+        },
+        {
+          "against": "Reading Mixed 1",
+          "scoreFor": 5,
+          "scoreAgainst": 15,
+          "netScore": -10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 15,
+          "scoreAgainst": 9,
+          "netScore": 6,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 12",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
@@ -18916,6 +20399,61 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-08-04T15:00:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 15,
+          "scoreAgainst": 6,
+          "netScore": 9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Guildford Ultimate 1",
+          "scoreFor": 12,
+          "scoreAgainst": 9,
+          "netScore": 3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Reading Mixed 1",
+          "scoreFor": 15,
+          "scoreAgainst": 13,
+          "netScore": 2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "SMOG 1",
+          "scoreFor": 9,
+          "scoreAgainst": 14,
+          "netScore": -5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "13:00",
+          "timestamp": "2019-08-25T13:00:00.000Z"
         }
       ]
     },
@@ -20015,8 +21553,74 @@ statsData = {
       ]
     },
     {
-      "team": "Glasgow 1",
+      "team": "Glasgow Mixed 1",
       "games": [
+        {
+          "against": "SMOKE",
+          "scoreFor": 6,
+          "scoreAgainst": 13,
+          "netScore": -7,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "10:30",
+          "timestamp": "2019-03-30T10:30:00.000Z"
+        },
+        {
+          "against": "Royal Goaltimate Society",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 3",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-03-30T12:00:00.000Z"
+        },
+        {
+          "against": "TBC",
+          "scoreFor": 15,
+          "scoreAgainst": 11,
+          "netScore": 4,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 16",
+          "day": "Saturday",
+          "time": "15:00",
+          "timestamp": "2019-03-30T15:00:00.000Z"
+        },
+        {
+          "against": "Thundering Herd 1",
+          "scoreFor": 11,
+          "scoreAgainst": 14,
+          "netScore": -3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 13",
+          "day": "Sunday",
+          "time": "09:00",
+          "timestamp": "2019-03-31T09:00:00.000Z"
+        },
+        {
+          "against": "SMOKE",
+          "scoreFor": 11,
+          "scoreAgainst": 8,
+          "netScore": 3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 14",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-03-31T10:30:00.000Z"
+        },
+        {
+          "against": "MIST",
+          "scoreFor": 13,
+          "scoreAgainst": 11,
+          "netScore": 2,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "13:30",
+          "timestamp": "2019-03-31T13:30:00.000Z"
+        },
         {
           "against": "Birmingham Ultimate",
           "scoreFor": 13,
@@ -20163,7 +21767,7 @@ statsData = {
       ]
     },
     {
-      "team": "Glasgow 2",
+      "team": "Glasgow Mixed 2",
       "games": [
         {
           "against": "MIST",
@@ -20300,7 +21904,7 @@ statsData = {
       ]
     },
     {
-      "team": "Glasgow 3",
+      "team": "Glasgow Mixed 3",
       "games": [
         {
           "against": "EKU A",
@@ -20378,77 +21982,6 @@ statsData = {
           "day": "Sunday",
           "time": "14:20",
           "timestamp": "2019-05-19T14:20:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Glasgow Mixed",
-      "games": [
-        {
-          "against": "SMOKE",
-          "scoreFor": 6,
-          "scoreAgainst": 13,
-          "netScore": -7,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "10:30",
-          "timestamp": "2019-03-30T10:30:00.000Z"
-        },
-        {
-          "against": "Royal Goaltimate Society",
-          "scoreFor": 10,
-          "scoreAgainst": 15,
-          "netScore": -5,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 3",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-03-30T12:00:00.000Z"
-        },
-        {
-          "against": "TBC",
-          "scoreFor": 15,
-          "scoreAgainst": 11,
-          "netScore": 4,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 16",
-          "day": "Saturday",
-          "time": "15:00",
-          "timestamp": "2019-03-30T15:00:00.000Z"
-        },
-        {
-          "against": "Thundering Herd 1",
-          "scoreFor": 11,
-          "scoreAgainst": 14,
-          "netScore": -3,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 13",
-          "day": "Sunday",
-          "time": "09:00",
-          "timestamp": "2019-03-31T09:00:00.000Z"
-        },
-        {
-          "against": "SMOKE",
-          "scoreFor": 11,
-          "scoreAgainst": 8,
-          "netScore": 3,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 14",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-03-31T10:30:00.000Z"
-        },
-        {
-          "against": "MIST",
-          "scoreFor": 13,
-          "scoreAgainst": 11,
-          "netScore": 2,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 7",
-          "day": "Sunday",
-          "time": "13:30",
-          "timestamp": "2019-03-31T13:30:00.000Z"
         }
       ]
     },
@@ -20795,6 +22328,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-08-04T15:00:00.000Z"
+        },
+        {
+          "against": "Reading Mixed 1",
+          "scoreFor": 12,
+          "scoreAgainst": 11,
+          "netScore": 1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Deep Space",
+          "scoreFor": 9,
+          "scoreAgainst": 12,
+          "netScore": -3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "SMOG 1",
+          "scoreFor": 4,
+          "scoreAgainst": 15,
+          "netScore": -11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "SMOG 2",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 10",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
@@ -22482,8 +24081,74 @@ statsData = {
       ]
     },
     {
-      "team": "Lurve",
+      "team": "Lurve Mixed",
       "games": [
+        {
+          "against": "Fresh People",
+          "scoreFor": 5,
+          "scoreAgainst": 15,
+          "netScore": -10,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "12:00",
+          "timestamp": "2019-03-30T12:00:00.000Z"
+        },
+        {
+          "against": "Kent Mixed",
+          "scoreFor": 7,
+          "scoreAgainst": 13,
+          "netScore": -6,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "13:30",
+          "timestamp": "2019-03-30T13:30:00.000Z"
+        },
+        {
+          "against": "GU Mixed 2",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-03-30T16:30:00.000Z"
+        },
+        {
+          "against": "South Wales Storm 2",
+          "scoreFor": 8,
+          "scoreAgainst": 9,
+          "netScore": -1,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "10:30",
+          "timestamp": "2019-03-31T10:30:00.000Z"
+        },
+        {
+          "against": "LLLeeeds Mixed 2",
+          "scoreFor": 7,
+          "scoreAgainst": 8,
+          "netScore": -1,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "12:00",
+          "timestamp": "2019-03-31T12:00:00.000Z"
+        },
+        {
+          "against": "Chiquititas",
+          "scoreFor": 8,
+          "scoreAgainst": 11,
+          "netScore": -3,
+          "tournament": "Y Ddraig Goch 2019",
+          "pitch": "Pitch 6",
+          "day": "Sunday",
+          "time": "15:00",
+          "timestamp": "2019-03-31T15:00:00.000Z"
+        },
         {
           "against": "Bristol Mixed",
           "scoreFor": 7,
@@ -22604,77 +24269,6 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-05-19T15:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "team": "Lurve Mixed",
-      "games": [
-        {
-          "against": "Fresh People",
-          "scoreFor": 5,
-          "scoreAgainst": 15,
-          "netScore": -10,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "12:00",
-          "timestamp": "2019-03-30T12:00:00.000Z"
-        },
-        {
-          "against": "Kent Mixed",
-          "scoreFor": 7,
-          "scoreAgainst": 13,
-          "netScore": -6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 1",
-          "day": "Saturday",
-          "time": "13:30",
-          "timestamp": "2019-03-30T13:30:00.000Z"
-        },
-        {
-          "against": "GU Mixed 2",
-          "scoreFor": 9,
-          "scoreAgainst": 15,
-          "netScore": -6,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 7",
-          "day": "Saturday",
-          "time": "16:30",
-          "timestamp": "2019-03-30T16:30:00.000Z"
-        },
-        {
-          "against": "South Wales Storm 2",
-          "scoreFor": 8,
-          "scoreAgainst": 9,
-          "netScore": -1,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 3",
-          "day": "Sunday",
-          "time": "10:30",
-          "timestamp": "2019-03-31T10:30:00.000Z"
-        },
-        {
-          "against": "LLLeeeds Mixed 2",
-          "scoreFor": 7,
-          "scoreAgainst": 8,
-          "netScore": -1,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 4",
-          "day": "Sunday",
-          "time": "12:00",
-          "timestamp": "2019-03-31T12:00:00.000Z"
-        },
-        {
-          "against": "Chiquititas",
-          "scoreFor": 8,
-          "scoreAgainst": 11,
-          "netScore": -3,
-          "tournament": "Y Ddraig Goch 2019",
-          "pitch": "Pitch 6",
-          "day": "Sunday",
-          "time": "15:00",
-          "timestamp": "2019-03-31T15:00:00.000Z"
         }
       ]
     },
@@ -24559,6 +26153,66 @@ statsData = {
       ]
     },
     {
+      "team": "PELT",
+      "games": [
+        {
+          "against": "Deep Space",
+          "scoreFor": 6,
+          "scoreAgainst": 15,
+          "netScore": -9,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "Reading Mixed 1",
+          "scoreFor": 5,
+          "scoreAgainst": 15,
+          "netScore": -10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Guildford Ultimate 1",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "SMOG 2",
+          "scoreFor": 8,
+          "scoreAgainst": 15,
+          "netScore": -7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 11",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Cambridge Ultimate 1",
+          "scoreFor": 9,
+          "scoreAgainst": 15,
+          "netScore": -6,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 12",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
+        }
+      ]
+    },
+    {
       "team": "PICNIC",
       "games": [
         {
@@ -25356,6 +27010,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-08-04T15:00:00.000Z"
+        },
+        {
+          "against": "Guildford Ultimate 1",
+          "scoreFor": 11,
+          "scoreAgainst": 12,
+          "netScore": -1,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 9",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "13:00",
+          "timestamp": "2019-08-24T13:00:00.000Z"
+        },
+        {
+          "against": "Deep Space",
+          "scoreFor": 13,
+          "scoreAgainst": 15,
+          "netScore": -2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "16:30",
+          "timestamp": "2019-08-24T16:30:00.000Z"
+        },
+        {
+          "against": "Cambridge Ultimate 1",
+          "scoreFor": 15,
+          "scoreAgainst": 5,
+          "netScore": 10,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 8",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 15,
+          "scoreAgainst": 11,
+          "netScore": 4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 3",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
+        },
+        {
+          "against": "SMOG 2",
+          "scoreFor": 11,
+          "scoreAgainst": 15,
+          "netScore": -4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 10",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
@@ -25821,6 +27541,61 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-08-04T15:00:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 12,
+          "scoreAgainst": 9,
+          "netScore": 3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 1",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "SMOG 2",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "14:30",
+          "timestamp": "2019-08-24T14:30:00.000Z"
+        },
+        {
+          "against": "Cambridge Ultimate 1",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "17:30",
+          "timestamp": "2019-08-24T17:30:00.000Z"
+        },
+        {
+          "against": "Guildford Ultimate 1",
+          "scoreFor": 15,
+          "scoreAgainst": 4,
+          "netScore": 11,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Deep Space",
+          "scoreFor": 14,
+          "scoreAgainst": 9,
+          "netScore": 5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Sunday",
+          "time": "13:00",
+          "timestamp": "2019-08-25T13:00:00.000Z"
         }
       ]
     },
@@ -25881,6 +27656,72 @@ statsData = {
           "day": "Sunday",
           "time": "15:00",
           "timestamp": "2019-08-04T15:00:00.000Z"
+        },
+        {
+          "against": "Cambridge Ultimate 1",
+          "scoreFor": 13,
+          "scoreAgainst": 11,
+          "netScore": 2,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 2",
+          "day": "Saturday",
+          "time": "10:50",
+          "timestamp": "2019-08-24T10:50:00.000Z"
+        },
+        {
+          "against": "SMOG 1",
+          "scoreFor": 10,
+          "scoreAgainst": 15,
+          "netScore": -5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 7",
+          "day": "Saturday",
+          "time": "14:30",
+          "timestamp": "2019-08-24T14:30:00.000Z"
+        },
+        {
+          "against": "Birmingham Ultimate",
+          "scoreFor": 10,
+          "scoreAgainst": 13,
+          "netScore": -3,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 4",
+          "day": "Saturday",
+          "time": "17:30",
+          "timestamp": "2019-08-24T17:30:00.000Z"
+        },
+        {
+          "against": "PELT",
+          "scoreFor": 15,
+          "scoreAgainst": 8,
+          "netScore": 7,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 11",
+          "day": "Sunday",
+          "time": "08:45",
+          "timestamp": "2019-08-25T08:45:00.000Z"
+        },
+        {
+          "against": "Guildford Ultimate 1",
+          "scoreFor": 15,
+          "scoreAgainst": 10,
+          "netScore": 5,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 10",
+          "day": "Sunday",
+          "time": "11:00",
+          "timestamp": "2019-08-25T11:00:00.000Z"
+        },
+        {
+          "against": "Reading Mixed 1",
+          "scoreFor": 15,
+          "scoreAgainst": 11,
+          "netScore": 4,
+          "tournament": "UKU Nationals",
+          "pitch": "Pitch 10",
+          "day": "Sunday",
+          "time": "14:30",
+          "timestamp": "2019-08-25T14:30:00.000Z"
         }
       ]
     },
